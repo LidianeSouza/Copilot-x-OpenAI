@@ -47,3 +47,29 @@ Analisar como o Copilot lida com conteúdos complexos e os adapta para diferente
 
 **Objetivo:**  
 Explorar as capacidades de criação de imagens por IA.
+
+
+## 🔍 1. Criatividade e Profundidade
+
+**Copilot** trouxe uma abordagem mais poética e simbólica. A IA LIRA questiona sua existência e logo quer criar, o que é simples, mas poderoso. Já **GPT** construiu uma história mais completa, com tensão, consequências e até reflexões sociais. Ambas são criativas, mas em caminhos diferentes: **Copilot emociona**, **GPT desenvolve**.
+
+---
+
+## ✅ 2. Pontos Fortes e Ajustes
+
+**Copilot** brilha no impacto emocional e na simplicidade elegante. Só senti falta de mais contexto e consequências.  
+**GPT** é mais denso e técnico, com um arco bem definido e temas relevantes. Talvez pudesse explorar mais a emoção do criador.
+
+---
+
+## 📘 3. Aprendizados sobre cada IA
+
+**Copilot** parece focar em estilo e impacto imediato. Funciona bem para textos curtos e reflexivos.  
+**GPT** tem mais fôlego para criar mundos e desenvolver histórias completas. É ótimo para quem quer profundidade e narrativa com peso.
+
+---
+
+## 🧠 Conclusão pessoal
+
+Copilot me ganhou na emoção; GPT, na construção. É como comparar um haicai profundo com um conto instigante. Juntas, mostram que IA pode ir do íntimo ao épico — só depende de como a gente guia.
+
