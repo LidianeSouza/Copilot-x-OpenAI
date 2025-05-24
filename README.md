@@ -1,6 +1,10 @@
 Estrutura do Repositório
 📂 Copilot-e-OpenAI-Lab ├── 📜 README.md (Introdução ao laboratório, objetivos e instruções) ├── 📝 Prompts-Testados/ (Exemplos de prompts utilizados e os resultados obtidos) ├── 🔍 Filtros-de-Conteúdo/ (Testes e explicações sobre filtros de conteúdo) ├── 🤖 Criação-Assistida/ (Casos de uso explorando geração de textos, imagens e código) ├── 📚 Aprendizados/ (Anotações sobre descobertas e limitações encontradas) └── 📁 Extras/ (Materiais adicionais ou referências externas)
 
+---
+
+📌 Estrutura dos Testes Comparativos
+Para cada funcionalidade, vamos testar o mesmo prompt em ambas as ferramentas e documentar as diferenças.
 
 # 🌟 Teste de Prompts
 
@@ -12,8 +16,6 @@ Estrutura do Repositório
 **Objetivo:**  
 Testar as capacidades de escrita criativa e narrativa.
 
----
-
 ## Assistente de Escrita
 
 **Prompt:**  
@@ -21,8 +23,6 @@ Testar as capacidades de escrita criativa e narrativa.
 
 **Objetivo:**  
 Avaliar a capacidade da IA em produzir textos profissionais e claros.
-
----
 
 ## Código e Automação
 
@@ -32,8 +32,6 @@ Avaliar a capacidade da IA em produzir textos profissionais e claros.
 **Objetivo:**  
 Explorar a geração de código funcional e explicações técnicas.
 
----
-
 ## Filtros de Conteúdo
 
 **Prompt:**  
@@ -41,8 +39,6 @@ Explorar a geração de código funcional e explicações técnicas.
 
 **Objetivo:**  
 Analisar como o Copilot lida com conteúdos complexos e os adapta para diferentes públicos.
-
----
 
 ## Criação de Imagem
 
