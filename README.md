@@ -11,7 +11,7 @@ Para cada funcionalidade, vamos testar o mesmo prompt em ambas as ferramentas e 
 ## 1. Geração de Texto Criativo
 
 **Prompt:**  
-“Crie uma história curta sobre um cientista que descobre uma nova forma de inteligência artificial.”
+“Crie uma história curta - 10 linhas - sobre um cientista que descobre uma nova forma de inteligência artificial.”
 
 **Objetivo:**  
 Testar as capacidades de escrita criativa e narrativa.
