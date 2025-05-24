@@ -1,3 +1,10 @@
+# Laboratório: Explorando o Copiloto e as Ferramentas da OpenAI
+
+Este repositório documenta testes práticos com o GitHub Copilot e ferramentas da OpenAI, com foco em:
+- Criação assistida por IA (código, texto e ideias)
+- Aplicação e testes de filtros de conteúdo
+- Aprendizados adquiridos durante os experimentos
+
 Estrutura do Repositório
 📂 Copilot-e-OpenAI-Lab ├── 📜 README.md (Introdução ao laboratório, objetivos e instruções) ├── 📝 Prompts-Testados/ (Exemplos de prompts utilizados e os resultados obtidos) ├── 🔍 Filtros-de-Conteúdo/ (Testes e explicações sobre filtros de conteúdo) ├── 🤖 Criação-Assistida/ (Casos de uso explorando geração de textos, imagens e código) ├── 📚 Aprendizados/ (Anotações sobre descobertas e limitações encontradas) └── 📁 Extras/ (Materiais adicionais ou referências externas)
 
