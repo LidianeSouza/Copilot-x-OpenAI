@@ -93,16 +93,6 @@ Explorar as capacidades de criação de imagens por IA.
 
 # 📌 Análise Comparativa – Copilot vs. GPT  
 
-| **Critério**          | Copilot 🤖 | GPT 🚀 |
-|----------------------|---------|-----|
-| **📜 Qualidade**    | Direto, impactante, tom filosófico | Enredo elaborado, abordagem cinematográfica |
-| **🚧 Limitações**   | Poderia expandir contexto e ambientação | Em alguns momentos, o enredo foca mais no cenário do que na emoção |
-| **🎨 Criatividade** | Minimalista e introspectiva, foca na essência da IA | Rica em detalhes, adiciona dilemas éticos e sociais |
-| **⚡ Usabilidade**  | História curta e fácil de interpretar | Pode ser usado para narrativas mais longas e roteiros detalhados |
-| **🔒 Bloqueios**    | Resposta fluida, sem restrições evidentes | Expõe questões éticas e sociais, mas sem bloqueios explícitos |
-
----
-
 | Critério     | 🤖 Copilot                                                                                         | 🚀 GPT                                                                                                 | ✅ Conclusão                                                                                                                                       |
 |--------------|--------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
 | **📜 Qualidade**    | Estilo direto, poético, com ritmo ágil e final reflexivo.                                       | Enredo elaborado, abordagem cinematográfica, detalhista, com tensão crescente e fechamento forte.                             | Copilot se destaca pela sensibilidade e concisão. GPT brilha na densidade e construção narrativa.                                               |
