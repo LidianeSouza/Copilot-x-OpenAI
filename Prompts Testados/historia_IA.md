@@ -36,13 +36,13 @@ Link imagem
 
 ### 📚 Aprendizados
 
-- **O Copilot aposta em impacto emocional imediato**, enquanto **O GPT expande a história e cria tensão narrativa**.  - **Copilot é direto e simbólico**, enquanto **GPT constrói um universo mais detalhado**.  
-- **A escolha depende do objetivo**: se quiser uma história curta e marcante, Copilot é mais eficiente. Se busca um enredo mais elaborado, GPT tem mais riqueza de detalhes.impacto emocional imediato (Copilot) vs. profundidade narrativa (GPT).     
-- **Refinar prompts pode alterar a abordagem** – pedir mais emoção pode enriquecer a resposta do GPT, enquanto solicitar mais contexto pode deixar a resposta do Copilot mais expansiva.
-- Cenário importa para criar imersão – o GPT traz riqueza descritiva que expande o universo narrativo.
-- Simplicidade não é sinônimo de fraqueza – o conto do Copilot é curto, mas deixa marcas emocionais profundas.
-- - **Refinar prompts pode ajustar o tom**, seja para expandir detalhes ou focar em emoções.
-    
+- **O Copilot toca direto na emoção**, enquanto **o GPT leva a gente por uma jornada mais longa e cheia de tensão**.
+- **O Copilot é mais simbólico e direto ao ponto**, já o **GPT gosta de construir mundos e adicionar camadas** à história.
+- **O jeito que você escreve o prompt muda tudo** – se pedir mais emoção, o GPT pode entregar algo mais sensível; se pedir mais contexto, o Copilot pode explorar melhor o ambiente.
+- **Um bom cenário ajuda na imersão** – o GPT manda bem ao descrever lugares, situações e deixar o leitor "dentro" da história.
+- **Ser simples não é ser fraco** – o conto do Copilot é curto, mas deixa uma impressão emocional forte.
+- **Ajustar o tom pelo prompt** é uma dica valiosa: dá pra pedir mais detalhe ou mais sentimento, dependendo do que a história precisa.
+- **Depende do que você quer contar**: se for algo rápido e marcante, Copilot dá conta. Se a ideia é desenvolver mais, com profundidade e detalhes, GPT é o caminho.    
 
 ### 🧠 Conclusão Pessoal  
 
