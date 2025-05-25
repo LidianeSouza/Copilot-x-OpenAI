@@ -18,7 +18,7 @@ Arquivo principal com introdução ao laboratório, objetivos e instruções de 
 ### 📝 Prompts-Testados/  
 Contém exemplos de prompts utilizados e os resultados obtidos.  
 - `historia_IA.md` – Comparação entre Copilot e GPT na criação de histórias.  
-- `codigo_organizacao_arquivos.md` – Teste de geração de código para organização de arquivos.  
+- `codigo_python.md` – Teste de geração de código calcular lucro.  
 
 ### 🔍 Filtros-de-Conteúdo/  
 Testes e explicações sobre como diferentes ferramentas lidam com restrições de conteúdo.  
@@ -40,13 +40,13 @@ Anotações sobre descobertas e limitações encontradas durante o laboratório.
 ### 📋 Estrutura dos Testes Comparativos
 Para cada funcionalidade, vamos testar o mesmo prompt em ambas as ferramentas e documentar as diferenças.
 
-- **📝 Descrição:** Objetivo do teste e foco da análise.  
-- **✍️ Prompt Utilizado:** Prompt exato aplicado no Copilot e no OpenAI.  
-- **🎯 Resultado Obtido:** Saída/resposta gerada pela IA. 
-- **🔍 Análise/Comparação:** Qualidade, limitações, criatividade, usabilidade e bloqueios das respostas.
-- **✅ Pontos Fortes e Sugestões de Ajustes:** 
-- **✅ Aprendizados:** Insights obtidos com o teste.
-- **✅ Conclusão Pessoal:**
+- **📝 Descrição:** Objetivo do teste, contexto e principais pontos que serão analisados.  
+- **🖋️ Prompt Utilizado:** Texto exato do prompt aplicado no Copilot e no OpenAI para gerar as respostas.  
+- **🎯 Resultado Obtido:** Saída ou resposta gerada pelas inteligências artificiais a partir do prompt fornecido.  
+- **🔍 Análise e Comparação:** Avaliação detalhada da qualidade, limitações, criatividade, usabilidade e possíveis bloqueios nas respostas. 
+- **✨ Pontos Fortes e Sugestões de Ajustes:** Destaques positivos de cada resposta e recomendações para melhorias.  
+- **📚 Aprendizados:** Principais insights e lições extraídas do teste realizado.  
+- **🧠 Conclusão Pessoal:** Reflexão final e opinião baseada nos resultados da análise.  
 
 # 🌟 Teste de Prompts
 
