@@ -2,12 +2,10 @@
 
 Este documento apresenta testes com geração de textos criativos utilizando **OpenAI ChatGPT** e **GitHub Copilot**. O objetivo é avaliar a capacidade das ferramentas em criar narrativas coesas, envolventes e bem estruturadas a partir do mesmo prompt.
 
-### 📝 Objetivo
-
-Explorar a criatividade das ferramentas ao gerar uma narrativa fictícia a partir de uma premissa abstrata: uma cidade onde as emoções são visíveis por cores. Serão analisadas a **riqueza de imaginação**, **coerência narrativa**, **estilo de escrita** e a **capacidade de envolver o leitor**.
 
 ### 📝 Objetivo
-Testar as capacidades de escrita criativa e narrativa.
+
+Testar as capacidades narrativas e criativas das ferramentas ao gerar uma **história curta** com limite de espaço (10 linhas), a partir de um **cenário de ficção científica**. A proposta avalia a **originalidade da ideia**, a **clareza da narrativa em espaço reduzido**, o **uso criativo do conceito de IA** e a **capacidade de síntese sem perder impacto**.
 
 
 ### 🖋️ Prompt Utilizado 
