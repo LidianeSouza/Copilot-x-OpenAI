@@ -159,16 +159,6 @@ Caso queira testar variações do prompt para analisar como cada IA ajusta seu e
 
 ## ✅ Pontos Fortes e Sugestões de Ajustes  
 
-| Critério        | Copilot | GPT |
-|----------------|---------|-----|
-| **Criatividade** | Simples e impactante | Rico e detalhado |
-| **Profundidade** | Filosófico, direto | Narrativa ampla, contextualizada |
-| **Clareza** | Objetivo e acessível | Mais descritivo e imersivo |
-| **Emoção** | Reflexiva e filosófica | Conflitos e mistério |
-| **Possíveis ajustes** | Expandir enredo, dar mais contexto | Enxugar para foco emocional |
-
-## ✅ Pontos Fortes e Sugestões de Ajustes  
-
 | **Critério**        | Copilot | GPT |
 |--------------------|---------|-----|
 | **🎨 Criatividade** | Simples e impactante | Rico e detalhado |
