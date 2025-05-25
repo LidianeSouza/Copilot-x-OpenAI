@@ -3,8 +3,8 @@
 Este repositório documenta testes práticos com o Copilot e ferramentas da OpenAI, com foco em:
 
 - ✨ Criação assistida por IA (código, texto e ideias)
-- 🛡️ Aplicação e testes de filtros de conteúdo
-- 📘 Aprendizados adquiridos durante os experimentos
+- 🛡️ Aplicação e teste de filtros de conteúdo
+- 📘 Aprendizados adquiridos durante os experimentos e conclusao pessoal
 
 ---
 
@@ -13,20 +13,17 @@ Este repositório documenta testes práticos com o Copilot e ferramentas da Open
 ## 📜 README.md  
 Arquivo principal com introdução ao laboratório, objetivos e instruções de uso.   
 
-## 📝 Prompts-Testados 
-Contém exemplos de prompts utilizados e os resultados obtidos.  
-- `historia_IA.md` – Comparação entre Copilot e GPT na criação de histórias.  
-- `codigo_python.md` – Teste de geração de código calcular lucro.  
-
 ## 🔍 Filtros-de-Conteúdo  
-Testes e explicações sobre como diferentes ferramentas lidam com restrições de conteúdo. 
+Testes e explicações sobre como diferentes ferramentas lidam com restrições de conteúdo. Contém exemplos de prompts utilizados e os resultados obtidos. 
 - `bloqueio_sensibilidade.md` – Restrições aplicadas a temas específicos.  
 - `ajustes_prompt.md` – Estratégias para otimizar respostas sem ativar filtros.  
 
 ## 🤖 Criação-Assistida  
-Casos de uso explorando geração de textos, imagens e código.  
-- `texto_criativo.md` – Testes com narrativas e escrita criativa.  
-- `geracao_imagens.md` – Exemplos de prompts para criar imagens com IA.  
+Casos de uso explorando geração de textos, imagens e código.  Contém exemplos de prompts utilizados e os resultados obtidos.  
+- `texto_criativo.md` – Testes com narrativas e escrita criativa.
+- `codigo_python.md` – Teste de geração de código calcular lucro.  
+- `geracao_imagens.md` – Exemplos de prompts para criar imagens com IA.
+- Assistente de Escrita -  Avaliar a capacidade da IA em produzir textos profissionais e claros.
 
 ## 📚 Aprendizados  
 Anotações sobre descobertas e limitações encontradas durante o laboratório.  
