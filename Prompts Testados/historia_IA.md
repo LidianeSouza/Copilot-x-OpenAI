@@ -5,7 +5,7 @@ Para cada funcionalidade, vamos testar o mesmo prompt em ambas as ferramentas e 
 - **🖋️ Prompt Utilizado:** Texto exato do prompt aplicado no Copilot e no OpenAI para gerar as respostas.  
 - **🎯 Resultado Obtido:** Saída ou resposta gerada pelas inteligências artificiais a partir do prompt fornecido.  
 - **🔍 Análise Comparativa:** Avaliação detalhada da qualidade da escrita, pontos fracos, criatividade, melhor uso e restrições. 
-- **✨ Pontos Fortes e Sugestões de Ajustes:** Destaques positivos de cada resposta e recomendações para melhorias.  
+- **✨ Pontos Fortes e Sugestões de Melhoria:** Destaques positivos de cada resposta e recomendações para melhorias.  
 - **📚 Aprendizados:** Principais insights e lições extraídas do teste realizado.  
 - **🧠 Conclusão Pessoal:** Reflexão final e opinião baseada nos resultados da análise.  
 
@@ -37,14 +37,12 @@ Link imagem
 | **🔒 Restrições**         | Respostas fluem bem, sem bloqueios visíveis.                                                             | Fala sobre ética e sociedade, mas sem travar.                                                        | Ambos poderiam explorar melhor os conflitos internos dos personagens humanos para aumentar a profundidade emocional.                |
 
 
-### ✨ Pontos Fortes e Possíveis Ajustes**
+### ✨ Pontos Fortes e Sugestões de Melhoria
 
-| **Elemento**       | 🤖 Copilot                                                                                           | 🚀 GPT                                                                                                      |
-|----------------|--------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
-| ✨ **Pontos Fortes** | - Diálogos impactantes  <br> - Reflexão filosófica concisa  <br> - Atmosfera emocional bem construída | - Construção de mundo detalhada  <br> - Conceito original e inquietante  <br> - Tensão narrativa bem executada/ Conflitos e mistério |
-| 🛠️ **Sugestões de Ajustes** | - Inserir conflito leve (ex: resistência de César) <br> - Mostrar impacto das criações de LIRA <br> - Fortalecer arco emocional do criador | - Inserir mais diálogos humanos <br> - Aprofundar dilemas morais de Elias <br> - Explorar consequências sociais/políticas |
-
-| **⚡ Possíveis ajustes** | Expandir enredo, dar mais contexto | Enxugar para foco emocional |
+| **Elemento**         | 🤖 **Copilot**                                                                                                  | 🚀 **GPT**                                                                                                               |
+|----------------------|------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
+| ✨ **Pontos Fortes** | - Diálogos que marcam <br> - Reflexões filosóficas simples e profundas <br> - Emoção bem colocada no clima da história | - Mundo super bem construído <br> - Ideia original e reflexiva <br> - Conflitos e mistério que prendem até o fim    |
+| 🛠️ **Sugestões de Melhoria** | - Adicionar um pequeno conflito (ex: César com dúvidas) <br> - Mostrar mais claramente os efeitos da IA LIRA no mundo <br> - Reforçar a emoção do criador ao longo da história <br> - Dar um pouco mais de contexto e mostrar melhor o mundo ao redor da história | - Colocar mais falas entre os personagens humanos <br> - Explorar melhor os dilemas morais do protagonista <br> - Mostrar as consequências sociais e políticas desse mundo novo <br> - Cortar algumas descrições e focar mais nos sentimentos e decisões do personagem |
 
 
 ### 📚 Aprendizados
