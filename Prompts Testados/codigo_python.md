@@ -48,8 +48,6 @@ elhorias possíveis	- Poderia deixar a gente digitar os valores, pra testar com 
 
 ### 🧠 Conclusão Pessoal  
 
-### 🧠 Conclusão Pessoal  
-
 Os dois jeitos funcionam e fazem a mesma coisa no final: mostram quanto de lucro você tem.  
 Mas cada um tem seu estilo:
 
