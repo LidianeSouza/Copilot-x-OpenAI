@@ -147,15 +147,13 @@ Caso queira testar variações do prompt para analisar como cada IA ajusta seu e
 
 # 📌 Análise Comparativa – Copilot vs. GPT  
 
-## 🔍 Análise e Comparação  
-
-| Critério          | Copilot | GPT |
-|------------------|---------|-----|
-| **Qualidade**    | Direto, impactante, tom filosófico | Enredo elaborado, abordagem cinematográfica |
-| **Limitações**   | Poderia expandir contexto e ambientação | Em alguns momentos, o enredo foca mais no cenário do que na emoção |
-| **Criatividade** | Minimalista e introspectiva, foca na essência da IA | Rica em detalhes, adiciona dilemas éticos e sociais |
-| **Usabilidade**  | História curta e fácil de interpretar | Pode ser usado para narrativas mais longas e roteiros detalhados |
-| **Bloqueios**    | Resposta fluida, sem restrições evidentes | Expõe questões éticas e sociais, mas sem bloqueios explícitos |
+| **Critério**          | Copilot | GPT |
+|----------------------|---------|-----|
+| **📜 Qualidade**    | Direto, impactante, tom filosófico | Enredo elaborado, abordagem cinematográfica |
+| **🚧 Limitações**   | Poderia expandir contexto e ambientação | Em alguns momentos, o enredo foca mais no cenário do que na emoção |
+| **🎨 Criatividade** | Minimalista e introspectiva, foca na essência da IA | Rica em detalhes, adiciona dilemas éticos e sociais |
+| **⚡ Usabilidade**  | História curta e fácil de interpretar | Pode ser usado para narrativas mais longas e roteiros detalhados |
+| **🔒 Bloqueios**    | Resposta fluida, sem restrições evidentes | Expõe questões éticas e sociais, mas sem bloqueios explícitos |
 
 ---
 
@@ -169,6 +167,15 @@ Caso queira testar variações do prompt para analisar como cada IA ajusta seu e
 | **Emoção** | Reflexiva e filosófica | Conflitos e mistério |
 | **Possíveis ajustes** | Expandir enredo, dar mais contexto | Enxugar para foco emocional |
 
+## ✅ Pontos Fortes e Sugestões de Ajustes  
+
+| **Critério**        | Copilot | GPT |
+|--------------------|---------|-----|
+| **🎨 Criatividade** | Simples e impactante | Rico e detalhado |
+| **📖 Profundidade** | Filosófico, direto | Narrativa ampla, contextualizada |
+| **🔍 Clareza** | Objetivo e acessível | Mais descritivo e imersivo |
+| **🎭 Emoção** | Reflexiva e filosófica | Conflitos e mistério |
+| **⚡ Possíveis ajustes** | Expandir enredo, dar mais contexto | Enxugar para foco emocional |
 ---
 
 ## 📌 Aprendizados  
