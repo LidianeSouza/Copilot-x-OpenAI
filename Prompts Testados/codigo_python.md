@@ -34,7 +34,6 @@ link da imagem
 | **Pontos legais**       | - Você interage com o programa<br>- Já dá uma ideia de como usar no mundo real<br>- Dá uma ideia legal de melhoria | - Tudo pronto<br>- Muito fácil de entender<br>- Ideal pra quem nunca programou |
 | **Melhorias possíveis** | - Poderia explicar um pouco mais o que está fazendo, tipo passo a passo                                            | - Poderia deixar a gente digitar os valores, pra testar com outros números     |
 
-elhorias possíveis	- Poderia deixar a gente digitar os valores, pra testar com outros números	- Poderia explicar um pouco mais o que está fazendo, tipo passo a passo
 
 ### 📚 Aprendizados
 
