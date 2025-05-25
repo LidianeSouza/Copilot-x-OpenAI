@@ -38,6 +38,17 @@ Criatividade: Qual consegue gerar textos, código ou imagens mais interessantes?
 
 Usabilidade: Qual é mais intuitivo para seu objetivo?
 
+📂 Como Documentar
+Para cada teste, podemos seguir esta estrutura:
+
+Prompt utilizado
+
+Respostas das duas ferramentas
+
+Comparação entre os outputs (clareza, criatividade, limitações)
+
+Aprendizados e ajustes
+
 ## ✅ Aprendizados  
 Lista dos insights obtidos com o teste.  
 
