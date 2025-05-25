@@ -91,12 +91,6 @@ Explorar as capacidades de criação de imagens por IA.
 
 ---
 
-## 📌 Aprendizados – O Que Podemos Concluir?  
-- **Copilot é direto e simbólico**, enquanto **GPT constrói um universo mais detalhado**.  
-- **A escolha depende do objetivo**: impacto emocional imediato (Copilot) vs. profundidade narrativa (GPT).  
-- **Refinar prompts pode ajustar o tom**, seja para expandir detalhes ou focar em emoções.  
-
-
 # 📌 Análise Comparativa – Copilot vs. GPT  
 
 | **Critério**          | Copilot 🤖 | GPT 🚀 |
@@ -134,6 +128,10 @@ Explorar as capacidades de criação de imagens por IA.
 - **Refinar prompts pode alterar a abordagem** – pedir mais emoção pode enriquecer a resposta do GPT, enquanto solicitar mais contexto pode deixar a resposta do Copilot mais expansiva.
 - Cenário importa para criar imersão – o GPT traz riqueza descritiva que expande o universo narrativo.
 - Simplicidade não é sinônimo de fraqueza – o conto do Copilot é curto, mas deixa marcas emocionais profundas.
+## 📌 Aprendizados – O Que Podemos Concluir?  
+- **Copilot é direto e simbólico**, enquanto **GPT constrói um universo mais detalhado**.  
+- **A escolha depende do objetivo**: impacto emocional imediato (Copilot) vs. profundidade narrativa (GPT).  
+- **Refinar prompts pode ajustar o tom**, seja para expandir detalhes ou focar em emoções. 
 
 ---
 
