@@ -42,7 +42,7 @@ Link imagem
 
 ### 🔍 Análise Comparativa – Copilot vs. GPT
 
-| Critério              | 🤖 **Copilot**                                                                                   | 🚀 **GPT**                                                                                          | 📚 Aprendizados                                                                                                                   |
+| Critério              | 🤖 **Copilot**                                                                                   | 🚀 **GPT**                                                                                          |
 |-----------------------|--------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
 | **📜 Qualidade da Escrita** | Estilo direto, poético e com final que faz pensar.                                                   | Histórias mais longas, estilo cinematográfico, com tensão e um final marcante.                        | 
 | **🚧 Pontos Fracos**       | Não aprofunda muito o cenário nem o conflito. Usa metáforas e deixa partes em aberto.                  | Falta aprofundar os sentimentos do personagem. Às vezes, o foco vai mais para o ambiente que para as emoções. | 
