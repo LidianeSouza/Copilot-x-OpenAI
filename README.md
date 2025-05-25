@@ -31,10 +31,20 @@ Casos de uso explorando geração de textos, imagens e código.
 ## 📚 Aprendizados  
 Anotações sobre descobertas e limitações encontradas durante o laboratório.  
 - `comparacao_estilos.md` – Diferenças na abordagem das ferramentas testadas.  
-- `melhoria_prompts.md` – Estratégias para refinar prompts e obter melhores resultados.  
+- `melhoria_prompts.md` – Estratégias para refinar prompts e obter melhores resultados.
+   
 ---
 
+### 📋 Estrutura dos Testes Comparativos
+Para cada funcionalidade, vamos testar o mesmo prompt em ambas as ferramentas e documentar as diferenças.
 
+- **📝 Objetivo:** Objetivo do teste, contexto e principais pontos que serão analisados.  
+- **🖋️ Prompt Utilizado:** Texto exato do prompt aplicado no Copilot e no OpenAI para gerar as respostas.  
+- **🎯 Resultado Obtido:** Saída ou resposta gerada pelas inteligências artificiais a partir do prompt fornecido.  
+- **🔍 Análise Comparativa:** Avaliação detalhada da qualidade da escrita, pontos fracos, criatividade, melhor uso e restrições. 
+- **✨ Pontos Fortes e Sugestões de Melhoria:** Destaques positivos de cada resposta e recomendações para melhorias.  
+- **📚 Aprendizados:** Principais insights e lições extraídas do teste realizado.  
+- **🧠 Conclusão Pessoal:** Reflexão final e opinião baseada nos resultados da análise.  
 
 
 ## 2. Assistente de Escrita
