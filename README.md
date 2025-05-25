@@ -35,11 +35,6 @@ Anotações sobre descobertas e limitações encontradas durante o laboratório.
 - `comparacao_estilos.md` – Diferenças na abordagem das ferramentas testadas.  
 - `melhoria_prompts.md` – Estratégias para refinar prompts e obter melhores resultados.  
 
-### 📁 Extras/  
-Materiais adicionais e referências externas para aprofundar os testes e análises.  
-- `artigos_relevantes.md` – Links e conteúdos sobre IA e filtragem de conteúdo.  
-- `guias_uso.md` – Documentação oficial das ferramentas exploradas.  
-
 ---
 
 📌 Estrutura dos Testes Comparativos
