@@ -8,7 +8,7 @@ Este repositório documenta testes práticos com o Copilot e ferramentas da Open
 
 ---
 
-# 📂 Estrutura do Repositório - Copilot-e-OpenAI-Lab  
+# 📂 Estrutura do Repositório - Copilot-x-OpenAI  
 
 ## 📜 README.md  
 Arquivo principal com introdução ao laboratório, objetivos e instruções de uso.  
