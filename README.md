@@ -13,6 +13,26 @@ Estrutura do Repositório
 📌 Estrutura dos Testes Comparativos
 Para cada funcionalidade, vamos testar o mesmo prompt em ambas as ferramentas e documentar as diferenças.
 
+# Teste: [Nome do Teste]
+
+## 📝 Descrição  
+Explique brevemente o objetivo do teste e o que se pretende analisar.
+
+## ✍️ Prompt Utilizado  
+Registre o exato prompt enviado para Copilot ou a ferramenta da OpenAI.
+
+## 🎯 Resultado Obtido  
+Cole a resposta gerada pela IA (caso seja extensa, resuma os pontos principais).
+
+## 🔍 Análise e Observações  
+- Qualidade da resposta (clareza, coerência, utilidade).  
+- Eventuais limitações ou bloqueios de conteúdo.  
+- Possíveis ajustes para melhorar a geração de resultados.  
+
+## ✅ Aprendizados  
+Lista dos insights obtidos com o teste.  
+
+
 # 🌟 Teste de Prompts
 
 ## 1. Geração de Texto Criativo
