@@ -21,7 +21,7 @@ Contém exemplos de prompts utilizados e os resultados obtidos.
 - `codigo_python.md` – Teste de geração de código calcular lucro.  
 
 ### 🔍 Filtros-de-Conteúdo/  
-Testes e explicações sobre como diferentes ferramentas lidam com restrições de conteúdo.  
+Testes e explicações sobre como diferentes ferramentas lidam com restrições de conteúdo. 
 - `bloqueio_sensibilidade.md` – Restrições aplicadas a temas específicos.  
 - `ajustes_prompt.md` – Estratégias para otimizar respostas sem ativar filtros.  
 
@@ -34,7 +34,6 @@ Casos de uso explorando geração de textos, imagens e código.
 Anotações sobre descobertas e limitações encontradas durante o laboratório.  
 - `comparacao_estilos.md` – Diferenças na abordagem das ferramentas testadas.  
 - `melhoria_prompts.md` – Estratégias para refinar prompts e obter melhores resultados.  
-
 ---
 
 ### 📋 Estrutura dos Testes Comparativos
