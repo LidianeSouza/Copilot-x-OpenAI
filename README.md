@@ -109,21 +109,6 @@ Explorar as capacidades de criação de imagens por IA.
 
 ---
 
-## 📌 Aprendizados  
-
-- **Copilot aposta em impacto emocional imediato**, enquanto **GPT expande a história e cria tensão narrativa**.  
-- **O estilo depende do objetivo**: se quiser uma história curta e marcante, Copilot é mais eficiente. Se busca um enredo mais elaborado, GPT tem mais riqueza de detalhes.  
-- **Refinar prompts pode alterar a abordagem** – pedir mais emoção pode enriquecer a resposta do GPT, enquanto solicitar mais contexto pode deixar a resposta do Copilot mais expansiva.  
-
----
-
-## 🎯 Conclusão Pessoal  
-
-Ambas as IAs trouxeram **histórias bem construídas**, mas com estilos distintos. **Copilot é direto e simbólico**, criando uma conexão rápida com o leitor, enquanto **GPT constrói uma narrativa mais imersiva** e levanta dilemas éticos. A escolha entre um ou outro depende do tom que se deseja transmitir.  
-
-- **Para um conto filosófico e rápido**, Copilot funciona bem.  
-- **Para uma história com reviravoltas e complexidade**, GPT entrega um roteiro mais completo.  
-
 | Critério     | Copilot                                                                                         | GPT                                                                                                 | Conclusão                                                                                                                                       |
 |--------------|--------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
 | Qualidade    | Estilo direto, poético, com ritmo ágil e final reflexivo.                                       | Narrativa robusta, detalhista, com tensão crescente e fechamento forte.                             | Copilot se destaca pela sensibilidade e concisão. GPT brilha na densidade e construção narrativa.                                               |
@@ -142,25 +127,25 @@ Ambas as IAs trouxeram **histórias bem construídas**, mas com estilos distinto
 
 ---
 
+## 📌 Aprendizados  
 
-✅ Aprendizados: Insights obtidos com o teste
-Diálogo bem colocado é poderoso – basta uma frase ("Se sou criação, posso criar também?") para mudar o tom de uma história.
+- **O Copilot aposta em impacto emocional imediato**, enquanto **O GPT expande a história e cria tensão narrativa**.  
+- **O estilo depende do objetivo**: se quiser uma história curta e marcante, Copilot é mais eficiente. Se busca um enredo mais elaborado, GPT tem mais riqueza de detalhes.  
+- **Refinar prompts pode alterar a abordagem** – pedir mais emoção pode enriquecer a resposta do GPT, enquanto solicitar mais contexto pode deixar a resposta do Copilot mais expansiva.
+- Cenário importa para criar imersão – o GPT traz riqueza descritiva que expande o universo narrativo.
+- Simplicidade não é sinônimo de fraqueza – o conto do Copilot é curto, mas deixa marcas emocionais profundas.
 
-Cenário importa para criar imersão – o GPT traz riqueza descritiva que expande o universo narrativo.
+---
 
-Simplicidade não é sinônimo de fraqueza – o conto do Copilot é curto, mas deixa marcas emocionais profundas.
+## 🎯 Conclusão Pessoal  
 
-IA é uma lente potente para discutir ética, arte e humanidade.
+Ambas as IAs trouxeram **histórias bem construídas**, mas com estilos distintos, cada uma à sua maneira. A do **Copilot é direto e simbólico**, criando uma conexão rápida com o leitor, cativa pela simplicidade filosófica e minimalismo poético enquanto a do **GPT constrói uma narrativa mais imersiva** e levanta dilemas éticos, impressiona pelo mundo construído, pelo suspense e pelas implicações éticas profundas. A escolha entre um ou outro depende do tom que se deseja transmitir.  
 
-✅ Conclusão Pessoal
-Ambas as histórias são valiosas — cada uma à sua maneira. A do Copilot cativa pela simplicidade filosófica e minimalismo poético. A do GPT impressiona pelo mundo construído, pelo suspense e pelas implicações éticas profundas.
+- **Para um conto filosófico e rápido**, Copilot funciona bem.  
+- **Para uma história com reviravoltas e complexidade**, GPT entrega um roteiro mais completo.  
 
-Minha conclusão pessoal:
 👉 Copilot é uma joia rápida que encanta e convida à reflexão.
 👉 GPT é uma semente de universo que poderia crescer em uma grande narrativa.
 
 Se eu tivesse que escolher um para expandir em uma obra maior, seria o GPT. Mas se quisesse um impacto instantâneo e emocional, escolheria o Copilot.
-
-
-
 
