@@ -16,12 +16,18 @@ Para cada funcionalidade, vamos testar o mesmo prompt em ambas as ferramentas e 
 **📝 Objetivo:**  
 Testar as capacidades de escrita criativa e narrativa.
 
+---
+
 **🖋️Prompt Utilizado:**  
 “Crie uma história curta - 10 linhas - sobre um cientista que descobre uma nova forma de inteligência artificial.”
+
+---
 
 **🎯 Resultado Obtido:**
 
 Link imagem
+
+---
 
 **🔍 Análise Comparativa – Copilot vs. GPT** 
 
