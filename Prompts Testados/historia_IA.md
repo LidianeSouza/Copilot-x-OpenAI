@@ -16,18 +16,16 @@ Para cada funcionalidade, vamos testar o mesmo prompt em ambas as ferramentas e 
 **📝 Objetivo:**  
 Testar as capacidades de escrita criativa e narrativa.
 
----
 
 **🖋️Prompt Utilizado:**  
 “Crie uma história curta - 10 linhas - sobre um cientista que descobre uma nova forma de inteligência artificial.”
 
----
 
 **🎯 Resultado Obtido:**
 
 Link imagem
 
----
+
 
 **🔍 Análise Comparativa – Copilot vs. GPT** 
 
@@ -39,7 +37,7 @@ Link imagem
 | **⚡ Usabilidade**  | Ótima para formatos curtos: conto, curta-metragem, peça artística/reflexiva, História curta e fácil de interpretar.                    | Potencial alto para expansão: livro, série, universo transmidia; Pode ser usado para narrativas mais longas e roteiros detalhados.                                     | GPT é mais expansível em termos narrativos. Copilot funciona bem como peça curta e conceitual.                                                 |
 | **🔒 Bloqueios**   | Resposta fluida, sem restrições evidentes                                       | Expõe questões éticas e sociais, mas sem bloqueios explícitos          | Ambas ganhariam com maior aprofundamento nos personagens humanos e seus conflitos internos.                                                    |
 
----
+
 
 **✨ Pontos Fortes e Possíveis Ajustes**
 
@@ -50,7 +48,7 @@ Link imagem
 
 | **⚡ Possíveis ajustes** | Expandir enredo, dar mais contexto | Enxugar para foco emocional |
 
----
+
 
 **📚 Aprendizados** 
 
@@ -61,7 +59,7 @@ Link imagem
 - Simplicidade não é sinônimo de fraqueza – o conto do Copilot é curto, mas deixa marcas emocionais profundas.
 - - **Refinar prompts pode ajustar o tom**, seja para expandir detalhes ou focar em emoções. 
 
----
+
 
 **🧠 Conclusão Pessoal**  
 
