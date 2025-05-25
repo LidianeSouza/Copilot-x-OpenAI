@@ -109,17 +109,6 @@ Explorar as capacidades de criação de imagens por IA.
 
 ---
 
-## ✅ Pontos Fortes e Sugestões de Ajustes  
-
-| **Critério**        | Copilot | GPT |
-|--------------------|---------|-----|
-| **🎨 Criatividade** | Simples e impactante | Rico e detalhado |
-| **📖 Profundidade** | Filosófico, direto | Narrativa ampla, contextualizada |
-| **🔍 Clareza** | Objetivo e acessível | Mais descritivo e imersivo |
-| **🎭 Emoção** | Reflexiva e filosófica | Conflitos e mistério |
-| **⚡ Possíveis ajustes** | Expandir enredo, dar mais contexto | Enxugar para foco emocional |
----
-
 ## 📌 Aprendizados  
 
 - **Copilot aposta em impacto emocional imediato**, enquanto **GPT expande a história e cria tensão narrativa**.  
@@ -143,10 +132,15 @@ Ambas as IAs trouxeram **histórias bem construídas**, mas com estilos distinto
 | Usabilidade  | Ótima para formatos curtos: conto, curta-metragem, peça artística/reflexiva.                    | Potencial alto para expansão: livro, série, universo transmidia.                                    | GPT é mais expansível em termos narrativos. Copilot funciona bem como peça curta e conceitual.                                                 |
 | Bloqueios    | Falta conflito real e transformação do personagem humano.                                       | Desenvolvimento emocional de Elias é superficial; faltam dilemas internos mais visíveis.           | Ambas ganhariam com maior aprofundamento nos personagens humanos e seus conflitos internos.                                                    |
 
-| Elemento       | 🤖 Copilot                                                                                           | 🚀 GPT                                                                                                      |
-|----------------|--------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
-| ✨ **Pontos Fortes** | - Diálogos impactantes  <br> - Reflexão filosófica concisa  <br> - Atmosfera emocional bem construída | - Construção de mundo detalhada  <br> - Conceito original e inquietante  <br> - Tensão narrativa bem executada |
+| **Elemento**       | **🤖 Copilot**                                 | **🚀 GPT**                                                                                                      |
+|
+| ✨ **Pontos Fortes** | - Diálogos impactantes  <br> - Reflexão filosófica concisa  <br> - Atmosfera emocional bem construída | - Construção de mundo detalhada  <br> - Conceito original e inquietante  <br> - Tensão narrativa bem executada/ Conflitos e mistério |
 | 🛠️ **Sugestões de Ajustes** | - Inserir conflito leve (ex: resistência de César) <br> - Mostrar impacto das criações de LIRA <br> - Fortalecer arco emocional do criador | - Inserir mais diálogos humanos <br> - Aprofundar dilemas morais de Elias <br> - Explorar consequências sociais/políticas |
+
+| **⚡ Possíveis ajustes** | Expandir enredo, dar mais contexto | Enxugar para foco emocional |
+
+---
+
 
 ✅ Aprendizados: Insights obtidos com o teste
 Diálogo bem colocado é poderoso – basta uma frase ("Se sou criação, posso criar também?") para mudar o tom de uma história.
