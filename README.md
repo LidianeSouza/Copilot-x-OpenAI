@@ -123,15 +123,12 @@ Explorar as capacidades de criação de imagens por IA.
 
 ## 📌 Aprendizados  
 
-- **O Copilot aposta em impacto emocional imediato**, enquanto **O GPT expande a história e cria tensão narrativa**.  
-- **O estilo depende do objetivo**: se quiser uma história curta e marcante, Copilot é mais eficiente. Se busca um enredo mais elaborado, GPT tem mais riqueza de detalhes.  
+- **O Copilot aposta em impacto emocional imediato**, enquanto **O GPT expande a história e cria tensão narrativa**.  - **Copilot é direto e simbólico**, enquanto **GPT constrói um universo mais detalhado**.  
+- **A escolha depende do objetivo**: se quiser uma história curta e marcante, Copilot é mais eficiente. Se busca um enredo mais elaborado, GPT tem mais riqueza de detalhes.impacto emocional imediato (Copilot) vs. profundidade narrativa (GPT).     
 - **Refinar prompts pode alterar a abordagem** – pedir mais emoção pode enriquecer a resposta do GPT, enquanto solicitar mais contexto pode deixar a resposta do Copilot mais expansiva.
 - Cenário importa para criar imersão – o GPT traz riqueza descritiva que expande o universo narrativo.
 - Simplicidade não é sinônimo de fraqueza – o conto do Copilot é curto, mas deixa marcas emocionais profundas.
-## 📌 Aprendizados – O Que Podemos Concluir?  
-- **Copilot é direto e simbólico**, enquanto **GPT constrói um universo mais detalhado**.  
-- **A escolha depende do objetivo**: impacto emocional imediato (Copilot) vs. profundidade narrativa (GPT).  
-- **Refinar prompts pode ajustar o tom**, seja para expandir detalhes ou focar em emoções. 
+- - **Refinar prompts pode ajustar o tom**, seja para expandir detalhes ou focar em emoções. 
 
 ---
 
