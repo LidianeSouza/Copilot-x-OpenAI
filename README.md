@@ -101,6 +101,8 @@ Explorar as capacidades de criação de imagens por IA.
 
 ---
 
+### ✨ Pontos Fortes e Possíveis Ajustes
+
 | **Elemento**       | 🤖 Copilot                                                                                           | 🚀 GPT                                                                                                      |
 |----------------|--------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
 | ✨ **Pontos Fortes** | - Diálogos impactantes  <br> - Reflexão filosófica concisa  <br> - Atmosfera emocional bem construída | - Construção de mundo detalhada  <br> - Conceito original e inquietante  <br> - Tensão narrativa bem executada/ Conflitos e mistério |
