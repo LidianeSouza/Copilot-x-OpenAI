@@ -26,7 +26,6 @@ link da imagem
 | **⚡ Melhor Uso**   | Bom pra usar no dia a dia ou pra brincar de programar de verdade.                                        | Bom pra estudar e entender o que é lucro.                                                  | O **Copilot** parece um mini programa real.  O **GPT** ajuda a aprender.                               |
 | **🔒 Restrições** | Se você tiver num lugar que não deixa digitar (tipo site de exemplo), pode travar por pedir informações. | Nenhuma. Código pronto é só copiar, colar e executar.                                                             | Os dois funcionam, mas cada um é melhor em um tipo de situação.                                           |
 
-            |
 
 ### ✨ Pontos Fortes e Sugestões de Melhoria
 
