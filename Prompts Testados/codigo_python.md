@@ -1,11 +1,22 @@
 # 💡 Comparativo: Função Python para Cálculo de Lucro – Copilot vs. GPT
 
-Este comparativo mostra como duas IAs — **GitHub Copilot** e **ChatGPT** — responderam à mesma tarefa:  
-**Criar uma função em Python para calcular o lucro com base no preço de venda e no custo.**
+Este comparativo mostra como duas IAs — **GitHub Copilot** e **ChatGPT** — responderam à mesma tarefa: 
 
----
+# 🌟 Teste de Prompts
 
-🔍 Análise Comparativa – Função de Cálculo de Lucro: GPT vs. Copilot
+## 2. Código e Automação
+
+### 📝 Objetivo
+Explorar a geração de código funcional e explicações técnicas.
+
+### 🖋️ Prompt Utilizado 
+“Crie uma função em Python para calcular o lucro de um produto com base no preço de venda e no custo.”
+
+### 🎯 Resultado Obtido
+link da imagem
+
+
+### 🔍 Análise Comparativa – Copilot vs. GPT
 
 | Critério                       | 🤖 **Copilot**                                                                                           | 🚀 **GPT**                                                                                 | ✅ **Resumo Final**                                                                                        |
 | ------------------------------ | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------- |
@@ -15,7 +26,8 @@ Este comparativo mostra como duas IAs — **GitHub Copilot** e **ChatGPT** — r
 | **🧰 Melhor lugar pra usar**   | Bom pra usar no dia a dia ou pra brincar de programar de verdade.                                        | Bom pra estudar e entender o que é lucro.                                                  | O **GPT** ajuda a aprender. O **Copilot** já parece um mini programa real.                                |
 | **⚠️ Tem alguma dificuldade?** | Se você tiver num lugar que não deixa digitar (tipo site de exemplo), pode travar por pedir informações. | Nenhuma. É só copiar e colar.                                                              | Os dois funcionam, mas cada um é melhor em um tipo de situação.                                           |
 
-✨ Pontos Fortes e Sugestões
+
+### ✨ Pontos Fortes e Sugestões de Melhoria
 
 | Elemento                | 🤖 **Copilot**                                                                                                     | 🚀 **GPT**                                                                     |
 | ----------------------- | ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------ |
@@ -24,20 +36,8 @@ Este comparativo mostra como duas IAs — **GitHub Copilot** e **ChatGPT** — r
 
 elhorias possíveis	- Poderia deixar a gente digitar os valores, pra testar com outros números	- Poderia explicar um pouco mais o que está fazendo, tipo passo a passo
 
-🎯 Conclusão bem direta
-Os dois jeitos funcionam e fazem a mesma coisa no final: mostram quanto de lucro você tem.
-Mas cada um tem seu estilo:
+### 📚 Aprendizados
 
-O GPT é tipo um exemplo de livro ou vídeo: mostra tudo prontinho.
-
-O Copilot é como um programinha de verdade, onde você interage, digita os números e vê o resultado.
-
-Se você tá aprendendo agora, o GPT ajuda a entender o que tá acontecendo.
-Se você quer praticar e brincar um pouco mais, o Copilot é mais divertido.
-
-No fim das contas, os dois são bons — só depende de como você gosta de aprender!
-
-📚 Aprendizados
 Mesmo código, jeitos diferentes: os dois fazem a mesma conta, mas mostram de formas diferentes — um mais pronto (GPT) e outro mais interativo (Copilot).
 
 Copilot te chama pra participar: como ele pede pra digitar os números, você sente que está “conversando” com o programa.
@@ -51,6 +51,20 @@ Já dá pra pensar em evoluir: o Copilot sugeriu adicionar a margem de lucro (ti
 Ver exemplos ajuda muito: comparar respostas diferentes te mostra que não existe só “um jeito certo” de programar — tem várias formas de chegar no mesmo resultado.
 
 Praticar é chave: quanto mais você roda e mexe nesses exemplos, mais fácil fica de entender e criar os seus próprios códigos.
+
+### 🧠 Conclusão Pessoal  
+
+Os dois jeitos funcionam e fazem a mesma coisa no final: mostram quanto de lucro você tem.
+Mas cada um tem seu estilo:
+
+O GPT é tipo um exemplo de livro ou vídeo: mostra tudo prontinho.
+
+O Copilot é como um programinha de verdade, onde você interage, digita os números e vê o resultado.
+
+Se você tá aprendendo agora, o GPT ajuda a entender o que tá acontecendo.
+Se você quer praticar e brincar um pouco mais, o Copilot é mais divertido.
+
+No fim das contas, os dois são bons — só depende de como você gosta de aprender!
 
 🎯 Conclusão bem direta
 Os dois jeitos funcionam e fazem a mesma coisa no final: mostram quanto de lucro você tem.
