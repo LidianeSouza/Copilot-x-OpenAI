@@ -41,50 +41,13 @@ Anotações sobre descobertas e limitações encontradas durante o laboratório.
 Para cada funcionalidade, vamos testar o mesmo prompt em ambas as ferramentas e documentar as diferenças.
 
 - **📝 Descrição:** Objetivo do teste e foco da análise.  
-- **✍️ Prompt Utilizado:** Prompt exato aplicado nas ferramentas.  
-- **🎯 Resultado Obtido:** Saída gerada pela IA (com resumo se necessário).  
-- **🔍 Análise e Observações:** Qualidade, limitações, bloqueios e sugestões de ajustes.  
+- **✍️ Prompt Utilizado:** Prompt exato aplicado no Copilot e no OpenAI.  
+- **🎯 Resultado Obtido:** Saída/resposta gerada pela IA 
+- **🔍 Análise/Comparação e Observações:** Qualidade, limitações, criatividade, usabilidade, bloqueios e sugestões de ajustes.  
 - **✅ Aprendizados:** Insights obtidos com o teste.
-
-# Teste: [Nome do Teste]
-
-## 📝 Descrição  
-Explique brevemente o objetivo do teste e o que se pretende analisar.
-
-## ✍️ Prompt Utilizado  
-Registre o exato prompt enviado para Copilot ou a ferramenta da OpenAI.
-
-## 🎯 Resultado Obtido  
-Cole a resposta gerada pela IA (caso seja extensa, resuma os pontos principais).
-
-## 🔍 Análise e Observações  
-- Qualidade da resposta (clareza, coerência, utilidade).  
-- Eventuais limitações ou bloqueios de conteúdo.  
-- Possíveis ajustes para melhorar a geração de resultados.
 
 💡 Como Comparar?
 Respostas: Os modelos respondem de forma diferente ao mesmo prompt?
-
-Limitações: Algum modelo tem filtros mais rígidos que o outro?
-
-Criatividade: Qual consegue gerar textos, código ou imagens mais interessantes?
-
-Usabilidade: Qual é mais intuitivo para seu objetivo?
-
-📂 Como Documentar
-Para cada teste, podemos seguir esta estrutura:
-
-Prompt utilizado
-
-Respostas das duas ferramentas
-
-Comparação entre os outputs (clareza, criatividade, limitações)
-
-Aprendizados e ajustes
-
-## ✅ Aprendizados  
-Lista dos insights obtidos com o teste.  
-
 
 # 🌟 Teste de Prompts
 
