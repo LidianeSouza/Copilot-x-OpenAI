@@ -37,10 +37,8 @@ Anotações sobre descobertas e limitações encontradas durante o laboratório.
 
 ---
 
-📌 Estrutura dos Testes Comparativos
+### 📋 Estrutura dos Testes Comparativos
 Para cada funcionalidade, vamos testar o mesmo prompt em ambas as ferramentas e documentar as diferenças.
-
-### 📋 Estrutura sugerida para cada teste:
 
 - **📝 Descrição:** Objetivo do teste e foco da análise.  
 - **✍️ Prompt Utilizado:** Prompt exato aplicado nas ferramentas.  
