@@ -6,7 +6,46 @@ Este repositório documenta testes práticos com o GitHub Copilot e ferramentas 
 - Aprendizados adquiridos durante os experimentos
 
 Estrutura do Repositório
-📂 Copilot-e-OpenAI-Lab ├── 📜 README.md (Introdução ao laboratório, objetivos e instruções) ├── 📝 Prompts-Testados/ (Exemplos de prompts utilizados e os resultados obtidos) ├── 🔍 Filtros-de-Conteúdo/ (Testes e explicações sobre filtros de conteúdo) ├── 🤖 Criação-Assistida/ (Casos de uso explorando geração de textos, imagens e código) ├── 📚 Aprendizados/ (Anotações sobre descobertas e limitações encontradas) └── 📁 Extras/ (Materiais adicionais ou referências externas)
+📂 Copilot-e-OpenAI-Lab 
+├── 📜 README.md (Introdução ao laboratório, objetivos e instruções) 
+├── 📝 Prompts-Testados/ (Exemplos de prompts utilizados e os resultados obtidos) 
+├── 🔍 Filtros-de-Conteúdo/ (Testes e explicações sobre filtros de conteúdo) 
+├── 🤖 Criação-Assistida/ (Casos de uso explorando geração de textos, imagens e código) 
+├── 📚 Aprendizados/ (Anotações sobre descobertas e limitações encontradas) 
+└── 📁 Extras/ (Materiais adicionais ou referências externas)
+# 📂 Estrutura do Repositório - Copilot-e-OpenAI-Lab  
+
+## 📜 README.md  
+Arquivo principal com introdução ao laboratório, objetivos e instruções de uso.  
+
+## 📁 Diretórios  
+
+### 📝 Prompts-Testados/  
+Contém exemplos de prompts utilizados e os resultados obtidos.  
+- `historia_IA.md` – Comparação entre Copilot e GPT na criação de histórias.  
+- `codigo_organizacao_arquivos.md` – Teste de geração de código para organização de arquivos.  
+
+### 🔍 Filtros-de-Conteúdo/  
+Testes e explicações sobre como diferentes ferramentas lidam com restrições de conteúdo.  
+- `bloqueio_sensibilidade.md` – Restrições aplicadas a temas específicos.  
+- `ajustes_prompt.md` – Estratégias para otimizar respostas sem ativar filtros.  
+
+### 🤖 Criação-Assistida/  
+Casos de uso explorando geração de textos, imagens e código.  
+- `texto_criativo.md` – Testes com narrativas e escrita criativa.  
+- `geracao_imagens.md` – Exemplos de prompts para criar imagens com IA.  
+
+### 📚 Aprendizados/  
+Anotações sobre descobertas e limitações encontradas durante o laboratório.  
+- `comparacao_estilos.md` – Diferenças na abordagem das ferramentas testadas.  
+- `melhoria_prompts.md` – Estratégias para refinar prompts e obter melhores resultados.  
+
+### 📁 Extras/  
+Materiais adicionais e referências externas para aprofundar os testes e análises.  
+- `artigos_relevantes.md` – Links e conteúdos sobre IA e filtragem de conteúdo.  
+- `guias_uso.md` – Documentação oficial das ferramentas exploradas.  
+
+
 
 ---
 
