@@ -1,7 +1,56 @@
-| Critério                       | 🤖 **Copilot**                                                                                  | 🚀 **GPT**                                                                                      | ✅ **Resumo Final**                                                                                  |
-| ------------------------------ | ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
-| **📜 Clareza do Código**       | Código simples, direto e fácil de entender. Usa `input()` para interação com o usuário.         | Bem estruturado e com comentários explicativos. Formatação clara e didática.                    | O **Copilot** é mais direto ao ponto. O **GPT** é mais pedagógico e organizado.                     |
-| **🚧 Pontos Fracos**           | Falta de indentação na transcrição e ausência de comentários. Um pouco confuso para iniciantes. | Pequeno erro de sintaxe com espaço em `R${lucro: .2f}`. Falta `input()` para tornar interativo. | O **Copilot** peca na formatação. O **GPT** entrega uma base sólida, mas menos interativa.          |
-| **🎨 Criatividade / Expansão** | Sugere possível expansão com margem de lucro percentual. Boa iniciativa de interação adicional. | Foca apenas no básico, mas com saída formatada como exemplo didático.                           | O **Copilot** sugere um caminho de evolução. O **GPT** se mantém mais técnico e seguro.             |
-| **⚡ Melhor Uso**               | Útil para scripts rápidos ou aplicações simples de terminal.                                    | Ideal para introdução ao conceito em aulas ou materiais didáticos.                              | O **Copilot** serve bem para uso prático imediato. O **GPT** se destaca como conteúdo instrucional. |
-| **🔒 Restrições**              | A falta de indentação pode confundir novatos. Mas não há bloqueios de conteúdo.                 | Código limpo e livre de limitações, embora menos dinâmico na entrada de dados.                  | Ambos funcionam bem, mas precisam de revisão antes de produção.                                     |
+| Critério                       | 🤖 **Copilot**                                                                                           | 🚀 **GPT**                                                                                 | ✅ **Resumo Final**                                                                                        |
+| ------------------------------ | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------- |
+| **🧠 Fácil de entender?**      | Também é fácil, mas você precisa digitar os valores quando o programa roda.                              | Sim! É tudo explicadinho e direto. Não precisa digitar nada, só roda e mostra o resultado. | O **GPT** é mais tranquilo pra quem só quer ver como funciona. O **Copilot** é bom pra testar de verdade. |
+| **🛠️ Dá trabalho usar?**      | Um pouco mais. Você precisa digitar o preço e o custo na hora que o programa pergunta.                   | Nenhum. O valor já tá lá. É só rodar e ver o resultado.                                    | O **GPT** é mais automático. O **Copilot** te faz interagir mais com o programa.                          |
+| **💡 Traz ideias novas?**      | Sim! Fala sobre a ideia de melhorar a função depois, como calcular a porcentagem do lucro.               | Não. Só mostra o básico do cálculo.                                                        | O **Copilot** já pensa em como melhorar. O **GPT** ensina o básico direitinho.                            |
+| **🧰 Melhor lugar pra usar**   | Bom pra usar no dia a dia ou pra brincar de programar de verdade.                                        | Bom pra estudar e entender o que é lucro.                                                  | O **GPT** ajuda a aprender. O **Copilot** já parece um mini programa real.                                |
+| **⚠️ Tem alguma dificuldade?** | Se você tiver num lugar que não deixa digitar (tipo site de exemplo), pode travar por pedir informações. | Nenhuma. É só copiar e colar.                                                              | Os dois funcionam, mas cada um é melhor em um tipo de situação.                                           |
+
+
+| Elemento                | 🤖 **Copilot**                                                                                                     | 🚀 **GPT**                                                                     |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------ |
+| **Pontos legais**       | - Você interage com o programa<br>- Já dá uma ideia de como usar no mundo real<br>- Dá uma ideia legal de melhoria | - Tudo pronto<br>- Muito fácil de entender<br>- Ideal pra quem nunca programou |
+| **Melhorias possíveis** | - Poderia explicar um pouco mais o que está fazendo, tipo passo a passo                                            | - Poderia deixar a gente digitar os valores, pra testar com outros números     |
+
+elhorias possíveis	- Poderia deixar a gente digitar os valores, pra testar com outros números	- Poderia explicar um pouco mais o que está fazendo, tipo passo a passo
+
+🎯 Conclusão bem direta
+Os dois jeitos funcionam e fazem a mesma coisa no final: mostram quanto de lucro você tem.
+Mas cada um tem seu estilo:
+
+O GPT é tipo um exemplo de livro ou vídeo: mostra tudo prontinho.
+
+O Copilot é como um programinha de verdade, onde você interage, digita os números e vê o resultado.
+
+Se você tá aprendendo agora, o GPT ajuda a entender o que tá acontecendo.
+Se você quer praticar e brincar um pouco mais, o Copilot é mais divertido.
+
+No fim das contas, os dois são bons — só depende de como você gosta de aprender!
+
+📚 Aprendizados
+Mesmo código, jeitos diferentes: os dois fazem a mesma conta, mas mostram de formas diferentes — um mais pronto (GPT) e outro mais interativo (Copilot).
+
+Copilot te chama pra participar: como ele pede pra digitar os números, você sente que está “conversando” com o programa.
+
+GPT é ótimo pra entender o básico: não precisa digitar nada, você só vê como funciona a conta.
+
+Dá pra aprender com os dois: o importante é entender a lógica por trás — subtrair o custo do preço de venda.
+
+Já dá pra pensar em evoluir: o Copilot sugeriu adicionar a margem de lucro (tipo “quanto por cento eu ganhei”), o que é uma boa ideia pra quem quer ir além.
+
+Ver exemplos ajuda muito: comparar respostas diferentes te mostra que não existe só “um jeito certo” de programar — tem várias formas de chegar no mesmo resultado.
+
+Praticar é chave: quanto mais você roda e mexe nesses exemplos, mais fácil fica de entender e criar os seus próprios códigos.
+
+🎯 Conclusão bem direta
+Os dois jeitos funcionam e fazem a mesma coisa no final: mostram quanto de lucro você tem.
+Mas cada um tem seu estilo:
+
+O Copilot é como um programinha de verdade, onde você interage, digita os números e vê o resultado.
+
+O GPT é tipo um exemplo de livro ou vídeo: mostra tudo prontinho.
+
+Se você tá aprendendo agora, o GPT ajuda a entender o que tá acontecendo.
+Se você quer praticar e brincar um pouco mais, o Copilot é mais divertido.
+
+No fim das contas, os dois são bons — só depende de como você gosta de aprender!
