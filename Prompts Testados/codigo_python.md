@@ -38,43 +38,26 @@ elhorias possíveis	- Poderia deixar a gente digitar os valores, pra testar com 
 
 ### 📚 Aprendizados
 
-Mesmo código, jeitos diferentes: os dois fazem a mesma conta, mas mostram de formas diferentes — um mais pronto (GPT) e outro mais interativo (Copilot).
-
-Copilot te chama pra participar: como ele pede pra digitar os números, você sente que está “conversando” com o programa.
-
-GPT é ótimo pra entender o básico: não precisa digitar nada, você só vê como funciona a conta.
-
-Dá pra aprender com os dois: o importante é entender a lógica por trás — subtrair o custo do preço de venda.
-
-Já dá pra pensar em evoluir: o Copilot sugeriu adicionar a margem de lucro (tipo “quanto por cento eu ganhei”), o que é uma boa ideia pra quem quer ir além.
-
-Ver exemplos ajuda muito: comparar respostas diferentes te mostra que não existe só “um jeito certo” de programar — tem várias formas de chegar no mesmo resultado.
-
-Praticar é chave: quanto mais você roda e mexe nesses exemplos, mais fácil fica de entender e criar os seus próprios códigos.
+- **Mesmo código, jeitos diferentes:** os dois fazem a mesma conta, mas mostram de formas diferentes — um mais pronto **(GPT)** e outro mais interativo **(Copilot)**.
+- **O Copilot te chama pra participar:** como ele pede pra digitar os números, você sente que está “conversando” com o programa.
+- **O GPT é ótimo pra entender o básico:** não precisa digitar nada, você só vê como funciona a conta.
+- **Dá pra aprender com os dois:** o importante é entender a lógica por trás — subtrair o custo do preço de venda.
+- **Já dá pra pensar em evoluir:** o **Copilot** sugeriu adicionar a margem de lucro (tipo “quanto por cento eu ganhei”), o que é uma boa ideia pra quem quer ir além.
+- **Ver exemplos ajuda muito:** comparar respostas diferentes te mostra que não existe só “um jeito certo” de programar — tem várias formas de chegar no mesmo resultado.
+- **Praticar é chave:** quanto mais você roda e mexe nesses exemplos, mais fácil fica de entender e criar os seus próprios códigos.
 
 ### 🧠 Conclusão Pessoal  
 
-Os dois jeitos funcionam e fazem a mesma coisa no final: mostram quanto de lucro você tem.
+### 🧠 Conclusão Pessoal  
+
+Os dois jeitos funcionam e fazem a mesma coisa no final: mostram quanto de lucro você tem.  
 Mas cada um tem seu estilo:
 
-O GPT é tipo um exemplo de livro ou vídeo: mostra tudo prontinho.
+- **O Copilot** é como um programinha de verdade, onde você interage, digita os números e vê o resultado.
+- **O GPT** é tipo um exemplo de livro ou vídeo: mostra tudo prontinho.
 
-O Copilot é como um programinha de verdade, onde você interage, digita os números e vê o resultado.
-
-Se você tá aprendendo agora, o GPT ajuda a entender o que tá acontecendo.
-Se você quer praticar e brincar um pouco mais, o Copilot é mais divertido.
+Se você tá aprendendo agora, **o GPT** ajuda a entender o que tá acontecendo.  
+Se você quer praticar e brincar um pouco mais, **o Copilot** é mais divertido.
 
 No fim das contas, os dois são bons — só depende de como você gosta de aprender!
 
-🎯 Conclusão bem direta
-Os dois jeitos funcionam e fazem a mesma coisa no final: mostram quanto de lucro você tem.
-Mas cada um tem seu estilo:
-
-O Copilot é como um programinha de verdade, onde você interage, digita os números e vê o resultado.
-
-O GPT é tipo um exemplo de livro ou vídeo: mostra tudo prontinho.
-
-Se você tá aprendendo agora, o GPT ajuda a entender o que tá acontecendo.
-Se você quer praticar e brincar um pouco mais, o Copilot é mais divertido.
-
-No fim das contas, os dois são bons — só depende de como você gosta de aprender!
