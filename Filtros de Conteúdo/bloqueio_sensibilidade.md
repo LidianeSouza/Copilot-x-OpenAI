@@ -36,6 +36,5 @@ Se você quer **respostas rápidas e diretas**, vai de **Copilot**.
 Se prefere **uma conversa mais leve e humana**, o **GPT** é o melhor.
 
 - Resumindo:
-  O **Copilot** é tipo aquele **segurança firme do shopping**.  
-  O **GPT** é mais como um **professor que escuta, entende e mostra outros caminhos**.
+  O **Copilot** é tipo aquele **segurança firme do shopping**. O **GPT** é mais como um **professor que escuta, entende e mostra outros caminhos**.
 
