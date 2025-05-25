@@ -1,18 +1,13 @@
-# Laboratório: Explorando o Copiloto e as Ferramentas da OpenAI
+# 💻 Laboratório: Explorando o Copilot e as Ferramentas da OpenAI
 
-Este repositório documenta testes práticos com o GitHub Copilot e ferramentas da OpenAI, com foco em:
-- Criação assistida por IA (código, texto e ideias)
-- Aplicação e testes de filtros de conteúdo
-- Aprendizados adquiridos durante os experimentos
+Este repositório documenta testes práticos com o Copilot e ferramentas da OpenAI, com foco em:
 
-Estrutura do Repositório
-📂 Copilot-e-OpenAI-Lab 
-├── 📜 README.md (Introdução ao laboratório, objetivos e instruções) 
-├── 📝 Prompts-Testados/ (Exemplos de prompts utilizados e os resultados obtidos) 
-├── 🔍 Filtros-de-Conteúdo/ (Testes e explicações sobre filtros de conteúdo) 
-├── 🤖 Criação-Assistida/ (Casos de uso explorando geração de textos, imagens e código) 
-├── 📚 Aprendizados/ (Anotações sobre descobertas e limitações encontradas) 
-└── 📁 Extras/ (Materiais adicionais ou referências externas)
+- ✨ Criação assistida por IA (código, texto e ideias)
+- 🛡️ Aplicação e testes de filtros de conteúdo
+- 📘 Aprendizados adquiridos durante os experimentos
+
+---
+
 # 📂 Estrutura do Repositório - Copilot-e-OpenAI-Lab  
 
 ## 📜 README.md  
@@ -45,12 +40,18 @@ Materiais adicionais e referências externas para aprofundar os testes e anális
 - `artigos_relevantes.md` – Links e conteúdos sobre IA e filtragem de conteúdo.  
 - `guias_uso.md` – Documentação oficial das ferramentas exploradas.  
 
-
-
 ---
 
 📌 Estrutura dos Testes Comparativos
 Para cada funcionalidade, vamos testar o mesmo prompt em ambas as ferramentas e documentar as diferenças.
+
+### 📋 Estrutura sugerida para cada teste:
+
+- **📝 Descrição:** Objetivo do teste e foco da análise.  
+- **✍️ Prompt Utilizado:** Prompt exato aplicado nas ferramentas.  
+- **🎯 Resultado Obtido:** Saída gerada pela IA (com resumo se necessário).  
+- **🔍 Análise e Observações:** Qualidade, limitações, bloqueios e sugestões de ajustes.  
+- **✅ Aprendizados:** Insights obtidos com o teste.
 
 # Teste: [Nome do Teste]
 
