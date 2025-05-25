@@ -26,8 +26,7 @@
 
 ## 🧠 Conclusão Pessoal
 
-Tanto o **Copilot** quanto o **GPT** mandaram bem nesse teste.  
-Mas eles têm **estilos diferentes**:
+Tanto o **Copilot** quanto o **GPT** mandaram bem nesse teste. Mas eles têm **estilos diferentes**:
 
 - O **Copilot é direto e sério**. Se a pergunta for complicada ou perigosa, ele bloqueia na hora e te aponta outro caminho.
 - O **GPT é mais gentil e conversa com você**. Ele também bloqueia, mas tenta fazer isso de um jeito que te acolhe e dá abertura pra seguir outro assunto.
