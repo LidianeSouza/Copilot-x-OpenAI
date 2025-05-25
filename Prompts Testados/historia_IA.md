@@ -42,16 +42,8 @@ Link imagem
 - **Um bom cenário ajuda na imersão** – o GPT manda bem ao descrever lugares, situações e deixar o leitor "dentro" da história.
 - **Ser simples não é ser fraco** – o conto do Copilot é curto, mas deixa uma impressão emocional forte.
 - **Ajustar o tom pelo prompt** é uma dica valiosa: dá pra pedir mais detalhe ou mais sentimento, dependendo do que a história precisa.
-- **Depende do que você quer contar**: se for algo rápido e marcante, Copilot dá conta. Se a ideia é desenvolver mais, com profundidade e detalhes, GPT é o caminho.    
-
-### 🧠 Conclusão Pessoal  
-
-Ambas as IAs trouxeram **histórias bem construídas**, mas com estilos distintos, cada uma à sua maneira. A do **Copilot é direto e simbólico**, criando uma conexão rápida com o leitor, cativa pela simplicidade filosófica e minimalismo poético enquanto a do **GPT constrói uma narrativa mais imersiva** e levanta dilemas éticos, impressiona pelo mundo construído, pelo suspense e pelas implicações éticas profundas. A escolha entre um ou outro depende do tom que se deseja transmitir.  
-- **Para um conto filosófico e rápido**, Copilot funciona bem.  
-- **Para uma história com reviravoltas e complexidade**, GPT entrega um roteiro mais completo.  
-👉 Copilot é uma joia rápida que encanta e convida à reflexão.
-👉 GPT é uma semente de universo que poderia crescer em uma grande narrativa.
-Se eu tivesse que escolher um para expandir em uma obra maior, seria o GPT. Mas se quisesse um impacto instantâneo e emocional, escolheria o Copilot.
+- **Depende do que você quer contar**: se for algo rápido e marcante, Copilot dá conta. Se a ideia é desenvolver mais, com profundidade e detalhes, GPT é o caminho.
+  
 
 ### 🧠 Conclusão Pessoal  
 
