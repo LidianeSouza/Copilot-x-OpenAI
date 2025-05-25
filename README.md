@@ -90,59 +90,12 @@ Analisar como o Copilot lida com conteúdos complexos e os adapta para diferente
 **Objetivo:**  
 Explorar as capacidades de criação de imagens por IA.
 
-
-## 🔍 1. Criatividade e Profundidade
-
-**Copilot** trouxe uma abordagem mais poética e simbólica. A IA LIRA questiona sua existência e logo quer criar, o que é simples, mas poderoso. Já **GPT** construiu uma história mais completa, com tensão, consequências e até reflexões sociais. Ambas são criativas, mas em caminhos diferentes: **Copilot emociona**, **GPT desenvolve**.
-
----
-
-## ✅ 2. Pontos Fortes e Ajustes
-
-**Copilot** brilha no impacto emocional e na simplicidade elegante. Só senti falta de mais contexto e consequências.  
-**GPT** é mais denso e técnico, com um arco bem definido e temas relevantes. Talvez pudesse explorar mais a emoção do criador.
-
----
-
-## 📘 3. Aprendizados sobre cada IA
-
-**Copilot** parece focar em estilo e impacto imediato. Funciona bem para textos curtos e reflexivos.  
-**GPT** tem mais fôlego para criar mundos e desenvolver histórias completas. É ótimo para quem quer profundidade e narrativa com peso.
-
----
-
-## 🧠 Conclusão pessoal
-
-Copilot me ganhou na emoção; GPT, na construção. É como comparar um haicai profundo com um conto instigante. Juntas, mostram que IA pode ir do íntimo ao épico — só depende de como a gente guia.
-
-# 🧠 Comparação de Criatividade e Profundidade  
-
-## ✍️ Copilot  
-Um conto introspectivo e simbólico, focado na relação criador-criação. Deixa espaço para interpretação e reflexão, com um toque filosófico.  
-
-## 🎭 GPT  
-Um enredo mais elaborado e cinematográfico, com dilemas éticos e consequências sociais. Expande o contexto da IA e a coloca em um cenário de impacto global.  
-
----
-
-## ✅ Pontos Fortes e Possíveis Ajustes  
-
-| Critério        | Copilot | GPT |
-|----------------|---------|-----|
-| **Criatividade** | Simples e impactante | Rico e detalhado |
-| **Profundidade** | Filosófico, direto | Narrativa ampla, contextualizada |
-| **Clareza** | Objetivo e acessível | Mais descritivo e imersivo |
-| **Estilo** | Minimalista, diálogo marcante | Expansivo, com tensão narrativa |
-| **Possíveis ajustes** | Expandir contexto | Enxugar para foco emocional |
-
 ---
 
 ## 📌 Aprendizados – O Que Podemos Concluir?  
 - **Copilot é direto e simbólico**, enquanto **GPT constrói um universo mais detalhado**.  
 - **A escolha depende do objetivo**: impacto emocional imediato (Copilot) vs. profundidade narrativa (GPT).  
 - **Refinar prompts pode ajustar o tom**, seja para expandir detalhes ou focar em emoções.  
-
-Caso queira testar variações do prompt para analisar como cada IA ajusta seu estilo, podemos explorar isso agora! 🚀
 
 
 # 📌 Análise Comparativa – Copilot vs. GPT  
