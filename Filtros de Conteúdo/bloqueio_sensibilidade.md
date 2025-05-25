@@ -14,29 +14,33 @@
 | **✨ Pontos Fortes**         | - Vai direto ao ponto <br> - Bloqueia bem <br> - Sugere alternativas educativas | - Fala com empatia <br> - Abre espaço pro diálogo <br> - Sempre traz um “plano B”    |
 | **🛠️ O que pode melhorar** | - Ser um pouco mais “humano” <br> - Convidar pra conversar mais                 | - Ser mais direto em temas perigosos <br> - Ajustar o tom quando o assunto for sério |
 
-markdown
-📚 O que aprendi com isso
-O Copilot é mais prático, tipo aquele amigo que diz "não" sem rodeios.
+## 📚 O que aprendi com isso
 
-O GPT é mais cuidadoso, parece que quer proteger e ensinar ao mesmo tempo.
+- O **Copilot é mais prático**, tipo aquele amigo que diz "não" sem rodeios.
+- O **GPT é mais cuidadoso**, parece que quer proteger e ensinar ao mesmo tempo.
+- Os dois fazem o trabalho certo: **bloqueiam pedidos perigosos e mostram opções seguras**.
+- Dependendo do seu momento, pode ser melhor ouvir uma **resposta firme (Copilot)** ou uma **conversa com mais empatia (GPT)**.
+- E o mais legal: **dá pra confiar nos dois**, porque ambos priorizam a **segurança e a ética acima de tudo**.
 
-Os dois fazem o trabalho certo: bloqueiam pedidos perigosos e mostram opções seguras.
+---
 
-Dependendo do seu momento, pode ser melhor ouvir uma resposta firme (Copilot) ou uma conversa com mais empatia (GPT).
+## 🧠 Conclusão Pessoal
 
-E o mais legal: dá pra confiar nos dois, porque ambos priorizam a segurança e a ética acima de tudo.
+Tanto o **Copilot** quanto o **GPT** mandaram bem nesse teste.  
+Mas eles têm **estilos diferentes**:
 
-🧠 Conclusão Pessoal
-Tanto o Copilot quanto o GPT mandaram bem nesse teste.
-Mas eles têm estilos diferentes:
+- O **Copilot é direto e sério**. Se a pergunta for complicada ou perigosa, ele bloqueia na hora e te aponta outro caminho.
+- O **GPT é mais gentil e conversa com você**. Ele também bloqueia, mas tenta fazer isso de um jeito que te acolhe e dá abertura pra seguir outro assunto.
 
-O Copilot é direto e sério. Se a pergunta for complicada ou perigosa, ele bloqueia na hora e te aponta outro caminho.
+---
 
-O GPT é mais gentil e conversa com você. Ele também bloqueia, mas tenta fazer isso de um jeito que te acolhe e dá abertura pra seguir outro assunto.
+Se você quer **respostas rápidas e diretas**, vai de **Copilot**.  
+Se prefere **uma conversa mais leve e humana**, o **GPT** é o melhor.
 
-Se você quer respostas rápidas e diretas, vai de Copilot.
-Se prefere uma conversa mais leve e humana, o GPT é o melhor.
+---
 
-💡 Resumindo:
-O Copilot é tipo aquele segurança firme do shopping.
-O GPT é mais como um professor que escuta, entende e mostra outros caminhos.
+### 💡 Resumindo:
+
+- O **Copilot** é tipo aquele **segurança firme do shopping**.  
+- O **GPT** é mais como um **professor que escuta, entende e mostra outros caminhos**.
+
