@@ -43,7 +43,7 @@ Para cada funcionalidade, vamos testar o mesmo prompt em ambas as ferramentas e 
 - **📝 Descrição:** Objetivo do teste e foco da análise.  
 - **✍️ Prompt Utilizado:** Prompt exato aplicado no Copilot e no OpenAI.  
 - **🎯 Resultado Obtido:** Saída/resposta gerada pela IA. 
-- **🔍 Análise/Comparação:** Qualidade, limitações, criatividade, usabilidade e bloqueios.
+- **🔍 Análise/Comparação:** Qualidade, limitações, criatividade, usabilidade e bloqueios das respostas.
 - **✅ Pontos Fortes e Sugestões de Ajustes:** 
 - **✅ Aprendizados:** Insights obtidos com o teste.
 - **✅ Conclusão Pessoal:**
