@@ -27,7 +27,16 @@ Cole a resposta gerada pela IA (caso seja extensa, resuma os pontos principais).
 ## 🔍 Análise e Observações  
 - Qualidade da resposta (clareza, coerência, utilidade).  
 - Eventuais limitações ou bloqueios de conteúdo.  
-- Possíveis ajustes para melhorar a geração de resultados.  
+- Possíveis ajustes para melhorar a geração de resultados.
+
+💡 Como Comparar?
+Respostas: Os modelos respondem de forma diferente ao mesmo prompt?
+
+Limitações: Algum modelo tem filtros mais rígidos que o outro?
+
+Criatividade: Qual consegue gerar textos, código ou imagens mais interessantes?
+
+Usabilidade: Qual é mais intuitivo para seu objetivo?
 
 ## ✅ Aprendizados  
 Lista dos insights obtidos com o teste.  
