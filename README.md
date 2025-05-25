@@ -111,7 +111,8 @@ Explorar as capacidades de criação de imagens por IA.
 | Usabilidade  | Ótima para formatos curtos: conto, curta-metragem, peça artística/reflexiva.                    | Potencial alto para expansão: livro, série, universo transmidia.                                    | GPT é mais expansível em termos narrativos. Copilot funciona bem como peça curta e conceitual.                                                 |
 | Bloqueios    | Falta conflito real e transformação do personagem humano.                                       | Desenvolvimento emocional de Elias é superficial; faltam dilemas internos mais visíveis.           | Ambas ganhariam com maior aprofundamento nos personagens humanos e seus conflitos internos.                                                    |
 
-| **Elemento**       | **🤖 Copilot**                                 | **🚀 GPT**                                                                                                      |
+---
+
 | **Elemento**       | 🤖 Copilot                                                                                           | 🚀 GPT                                                                                                      |
 |----------------|--------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
 | ✨ **Pontos Fortes** | - Diálogos impactantes  <br> - Reflexão filosófica concisa  <br> - Atmosfera emocional bem construída | - Construção de mundo detalhada  <br> - Conceito original e inquietante  <br> - Tensão narrativa bem executada/ Conflitos e mistério |
