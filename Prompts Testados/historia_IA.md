@@ -17,7 +17,7 @@ Para cada funcionalidade, vamos testar o mesmo prompt em ambas as ferramentas e 
 Testar as capacidades de escrita criativa e narrativa.
 
 
-**🖋️Prompt Utilizado:**  
+**🖋️ Prompt Utilizado:  
 “Crie uma história curta - 10 linhas - sobre um cientista que descobre uma nova forma de inteligência artificial.”
 
 
