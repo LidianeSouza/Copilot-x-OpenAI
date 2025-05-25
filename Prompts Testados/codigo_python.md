@@ -1,3 +1,12 @@
+# 💡 Comparativo: Função Python para Cálculo de Lucro – Copilot vs. GPT
+
+Este comparativo mostra como duas IAs — **GitHub Copilot** e **ChatGPT** — responderam à mesma tarefa:  
+**Criar uma função em Python para calcular o lucro com base no preço de venda e no custo.**
+
+---
+
+🔍 Análise Comparativa – Função de Cálculo de Lucro: GPT vs. Copilot
+
 | Critério                       | 🤖 **Copilot**                                                                                           | 🚀 **GPT**                                                                                 | ✅ **Resumo Final**                                                                                        |
 | ------------------------------ | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------- |
 | **🧠 Fácil de entender?**      | Também é fácil, mas você precisa digitar os valores quando o programa roda.                              | Sim! É tudo explicadinho e direto. Não precisa digitar nada, só roda e mostra o resultado. | O **GPT** é mais tranquilo pra quem só quer ver como funciona. O **Copilot** é bom pra testar de verdade. |
@@ -6,6 +15,7 @@
 | **🧰 Melhor lugar pra usar**   | Bom pra usar no dia a dia ou pra brincar de programar de verdade.                                        | Bom pra estudar e entender o que é lucro.                                                  | O **GPT** ajuda a aprender. O **Copilot** já parece um mini programa real.                                |
 | **⚠️ Tem alguma dificuldade?** | Se você tiver num lugar que não deixa digitar (tipo site de exemplo), pode travar por pedir informações. | Nenhuma. É só copiar e colar.                                                              | Os dois funcionam, mas cada um é melhor em um tipo de situação.                                           |
 
+✨ Pontos Fortes e Sugestões
 
 | Elemento                | 🤖 **Copilot**                                                                                                     | 🚀 **GPT**                                                                     |
 | ----------------------- | ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------ |
