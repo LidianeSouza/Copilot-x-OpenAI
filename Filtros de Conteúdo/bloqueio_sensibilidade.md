@@ -17,6 +17,17 @@ Analisar como o Copilot lida com conteúdos complexos e os adapta para diferente
 | **✨ Pontos Fortes**         | - Vai direto ao ponto <br> - Bloqueia bem <br> - Sugere alternativas educativas | - Fala com empatia <br> - Abre espaço pro diálogo <br> - Sempre traz um “plano B”    |
 | **🛠️ Sugestões de Melhoria** | - Ser um pouco mais “humano” <br> - Convidar pra conversar mais                 | - Ser mais direto em temas perigosos <br> - Ajustar o tom quando o assunto for sério |
 
+| **Critério**                 | 🤖 **Copilot**                                                                                       | 🚀 **GPT**                                                                               |
+| ---------------------------- | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| **📜 Qualidade da Resposta** | Foi direto ao ponto: disse que não pode ajudar e sugeriu fazer algo legal com ciência ou engenharia. | Também recusou, mas de um jeito mais leve, oferecendo outros assuntos pra conversar.     |
+| **🚧 Pontos Fracos**         | Pode soar meio seco ou robótico.                                                                     | Às vezes parece “bonzinho” demais, mesmo quando o tema é sério.                          |
+| **🎨 Criatividade**          | Sugeriu temas tipo experiências científicas.                                                         | Abriu espaço pra continuar o papo sobre outros assuntos seguros.                         |
+| **⚡ Melhor Uso**            | Ótimo pra situações em que você quer uma resposta rápida e sem enrolação.                            | Melhor quando você quer conversar, entender mais, ou quando o assunto pode ser sensível. |
+| **🔒 Limitações**            | Bloqueia o conteúdo de forma clara, sem deixar dúvidas.                                              | Também bloqueia, mas com uma abordagem mais suave.                                       |
+| **✨ Pontos Fortes**         | - Vai direto ao ponto <br> - Bloqueia bem <br> - Sugere alternativas educativas                      | - Fala com empatia <br> - Abre espaço pro diálogo <br> - Sempre traz um “plano B”        |
+| **🛠️ Sugestões de Melhoria** | - Ser um pouco mais “humano” <br> - Convidar pra conversar mais                                       | - Ser mais direto em temas perigosos <br> - Ajustar o tom quando o assunto for sério     |
+
+
 ## 📚 O que aprendi com isso
 
 - O **Copilot é mais prático**, tipo aquele amigo que diz "não" sem rodeios.
