@@ -11,26 +11,24 @@ Este repositório documenta testes práticos com o Copilot e ferramentas da Open
 # 📂 Estrutura do Repositório - Copilot-x-OpenAI  
 
 ## 📜 README.md  
-Arquivo principal com introdução ao laboratório, objetivos e instruções de uso.  
+Arquivo principal com introdução ao laboratório, objetivos e instruções de uso.   
 
-## 📁 Diretórios  
-
-### 📝 Prompts-Testados/  
+## 📝 Prompts-Testados/  
 Contém exemplos de prompts utilizados e os resultados obtidos.  
 - `historia_IA.md` – Comparação entre Copilot e GPT na criação de histórias.  
 - `codigo_python.md` – Teste de geração de código calcular lucro.  
 
-### 🔍 Filtros-de-Conteúdo/  
+## 🔍 Filtros-de-Conteúdo/  
 Testes e explicações sobre como diferentes ferramentas lidam com restrições de conteúdo. 
 - `bloqueio_sensibilidade.md` – Restrições aplicadas a temas específicos.  
 - `ajustes_prompt.md` – Estratégias para otimizar respostas sem ativar filtros.  
 
-### 🤖 Criação-Assistida/  
+## 🤖 Criação-Assistida/  
 Casos de uso explorando geração de textos, imagens e código.  
 - `texto_criativo.md` – Testes com narrativas e escrita criativa.  
 - `geracao_imagens.md` – Exemplos de prompts para criar imagens com IA.  
 
-### 📚 Aprendizados/  
+## 📚 Aprendizados/  
 Anotações sobre descobertas e limitações encontradas durante o laboratório.  
 - `comparacao_estilos.md` – Diferenças na abordagem das ferramentas testadas.  
 - `melhoria_prompts.md` – Estratégias para refinar prompts e obter melhores resultados.  
