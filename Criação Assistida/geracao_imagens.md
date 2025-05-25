@@ -6,3 +6,5 @@
 **Objetivo:**  
 Explorar as capacidades de criação de imagens por IA.
 
+### 🎯 Resultado Obtido
+link da imagem
