@@ -2,6 +2,17 @@
 
 Este documento apresenta testes com geração de textos criativos utilizando **OpenAI ChatGPT** e **GitHub Copilot**. O objetivo é avaliar a capacidade das ferramentas em criar narrativas coesas, envolventes e bem estruturadas a partir do mesmo prompt.
 
+## 📋 Estrutura dos Testes Comparativos
+
+Para cada funcionalidade, vamos testar o mesmo prompt em ambas as ferramentas e documentar as diferenças.
+
+- 📝 **Objetivo:** Definir o propósito do teste, o contexto e os principais pontos que serão avaliados e comprovados.  
+- 🖋️ **Prompt Utilizado:** Texto exato do prompt aplicado no GitHub Copilot e no OpenAI para gerar as respostas.  
+- 🎯 **Resultado Obtido:** Saída ou resposta gerada pelas inteligências artificiais a partir do prompt fornecido.  
+- 🔍 **Análise Comparativa:** Avaliação detalhada da qualidade da escrita, pontos fracos, criatividade, melhores usos e limitações de cada resposta.  
+- ✨ **Pontos Fortes e Sugestões de Melhoria:** Destaques positivos de cada resposta e recomendações para aprimorar os resultados.  
+- 📚 **Aprendizados:** Principais insights e lições extraídas do teste realizado.  
+- 🧠 **Conclusão Pessoal:** Reflexão final e opinião baseada nos resultados da análise.
 
 ### 📝 Objetivo
 
