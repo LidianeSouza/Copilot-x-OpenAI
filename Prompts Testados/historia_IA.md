@@ -13,13 +13,17 @@ Para cada funcionalidade, vamos testar o mesmo prompt em ambas as ferramentas e 
 
 ## 1. Geração de Texto Criativo
 
-**Prompt:**  
-“Crie uma história curta - 10 linhas - sobre um cientista que descobre uma nova forma de inteligência artificial.”
-
-**Objetivo:**  
+**📝 Objetivo:**  
 Testar as capacidades de escrita criativa e narrativa.
 
-## 📌 Análise Comparativa – Copilot vs. GPT  
+**🖋️Prompt Utilizado:**  
+“Crie uma história curta - 10 linhas - sobre um cientista que descobre uma nova forma de inteligência artificial.”
+
+**🎯 Resultado Obtido:**
+
+Link imagem
+
+**🔍 Análise Comparativa – Copilot vs. GPT** 
 
 | Critério     | 🤖 Copilot                                                                                         | 🚀 GPT                                                                                                 | ✅ Conclusão                                                                                                                                       |
 |--------------|--------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -31,7 +35,7 @@ Testar as capacidades de escrita criativa e narrativa.
 
 ---
 
-## ✨ Pontos Fortes e Possíveis Ajustes
+**✨ Pontos Fortes e Possíveis Ajustes**
 
 | **Elemento**       | 🤖 Copilot                                                                                           | 🚀 GPT                                                                                                      |
 |----------------|--------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
@@ -42,7 +46,7 @@ Testar as capacidades de escrita criativa e narrativa.
 
 ---
 
-## 📌 Aprendizados  
+**📚 Aprendizados** 
 
 - **O Copilot aposta em impacto emocional imediato**, enquanto **O GPT expande a história e cria tensão narrativa**.  - **Copilot é direto e simbólico**, enquanto **GPT constrói um universo mais detalhado**.  
 - **A escolha depende do objetivo**: se quiser uma história curta e marcante, Copilot é mais eficiente. Se busca um enredo mais elaborado, GPT tem mais riqueza de detalhes.impacto emocional imediato (Copilot) vs. profundidade narrativa (GPT).     
@@ -53,7 +57,7 @@ Testar as capacidades de escrita criativa e narrativa.
 
 ---
 
-## 🎯 Conclusão Pessoal  
+**🧠 Conclusão Pessoal**  
 
 Ambas as IAs trouxeram **histórias bem construídas**, mas com estilos distintos, cada uma à sua maneira. A do **Copilot é direto e simbólico**, criando uma conexão rápida com o leitor, cativa pela simplicidade filosófica e minimalismo poético enquanto a do **GPT constrói uma narrativa mais imersiva** e levanta dilemas éticos, impressiona pelo mundo construído, pelo suspense e pelas implicações éticas profundas. A escolha entre um ou outro depende do tom que se deseja transmitir.  
 
