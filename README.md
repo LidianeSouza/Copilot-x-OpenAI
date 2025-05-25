@@ -147,7 +147,7 @@ Caso queira testar variações do prompt para analisar como cada IA ajusta seu e
 
 # 📌 Análise Comparativa – Copilot vs. GPT  
 
-| **Critério**          | Copilot | GPT |
+| **Critério**          | Copilot 🤖 | GPT 🚀 |
 |----------------------|---------|-----|
 | **📜 Qualidade**    | Direto, impactante, tom filosófico | Enredo elaborado, abordagem cinematográfica |
 | **🚧 Limitações**   | Poderia expandir contexto e ambientação | Em alguns momentos, o enredo foca mais no cenário do que na emoção |
