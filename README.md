@@ -133,7 +133,8 @@ Ambas as IAs trouxeram **histórias bem construídas**, mas com estilos distinto
 | Bloqueios    | Falta conflito real e transformação do personagem humano.                                       | Desenvolvimento emocional de Elias é superficial; faltam dilemas internos mais visíveis.           | Ambas ganhariam com maior aprofundamento nos personagens humanos e seus conflitos internos.                                                    |
 
 | **Elemento**       | **🤖 Copilot**                                 | **🚀 GPT**                                                                                                      |
-|
+| **Elemento**       | 🤖 Copilot                                                                                           | 🚀 GPT                                                                                                      |
+|----------------|--------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
 | ✨ **Pontos Fortes** | - Diálogos impactantes  <br> - Reflexão filosófica concisa  <br> - Atmosfera emocional bem construída | - Construção de mundo detalhada  <br> - Conceito original e inquietante  <br> - Tensão narrativa bem executada/ Conflitos e mistério |
 | 🛠️ **Sugestões de Ajustes** | - Inserir conflito leve (ex: resistência de César) <br> - Mostrar impacto das criações de LIRA <br> - Fortalecer arco emocional do criador | - Inserir mais diálogos humanos <br> - Aprofundar dilemas morais de Elias <br> - Explorar consequências sociais/políticas |
 
