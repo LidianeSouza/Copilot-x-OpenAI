@@ -1,3 +1,14 @@
+### 📋 Estrutura dos Testes Comparativos
+Para cada funcionalidade, vamos testar o mesmo prompt em ambas as ferramentas e documentar as diferenças.
+
+- **📝 Descrição:** Objetivo do teste, contexto e principais pontos que serão analisados.  
+- **🖋️ Prompt Utilizado:** Texto exato do prompt aplicado no Copilot e no OpenAI para gerar as respostas.  
+- **🎯 Resultado Obtido:** Saída ou resposta gerada pelas inteligências artificiais a partir do prompt fornecido.  
+- **🔍 Análise e Comparação:** Avaliação detalhada da qualidade, limitações, criatividade, usabilidade e possíveis bloqueios nas respostas. 
+- **✨ Pontos Fortes e Sugestões de Ajustes:** Destaques positivos de cada resposta e recomendações para melhorias.  
+- **📚 Aprendizados:** Principais insights e lições extraídas do teste realizado.  
+- **🧠 Conclusão Pessoal:** Reflexão final e opinião baseada nos resultados da análise.  
+
 # 🌟 Teste de Prompts
 
 ## 1. Geração de Texto Criativo
