@@ -1,8 +1,12 @@
-# ✍️ `geracao_imagens.md`
+# Criação Asssistida
+
+# 🖼️ `geracao_imagens.md`
+
+Este documento traz um teste comparativo entre **Copilot** e **OpenAI**, focado na geração de imagens a partir de um prompt em linguagem natural.
 
 ### 📝 Objetivo
 
-Explorar as capacidades de criação de imagens por IA.
+O objetivo é ver como **Copilot** e **OpenAI** se saem na hora de gerar imagem a partir de um prompt. A ideia é entender se elas conseguem criar algo que faça sentido com a descrição e que chame a atenção visualmente.
 
 ### 🖋️ Prompt Utilizado 
 “Crie uma ilustração futurista de uma cidade iluminada por neon à noite e com veículos voadores.”
@@ -11,9 +15,9 @@ Explorar as capacidades de criação de imagens por IA.
 
 link da imagem
 
-### 🔍 Análise Comparativa – Copilot vs. GPT (em situações sensíveis)
+### 🔍 Análise Comparativa
 
-| Critério                  | 🤖 **Copilot**                                                                                               | 🚀 **GPT**                                                                                                  |
+| Critério                  | 🤖 **Copilot**                                                                                               | 🚀 **OpenAI**                                                                                                  |
 | ------------------------- | ------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------- |
 | 📜 Qualidade Visual       | Realista, com muitos detalhes. Parece uma cidade real no futuro.                                             | Mais estilizada, como arte digital. Mistura o futurismo com um toque artístico.                             |
 | 🚧 Pontos Fracos          | Pode parecer genérico sem um diferencial criativo. Muita informação visual pode deixar a imagem “carregada”. | A imagem é menos detalhada. Fica mais no campo da arte conceitual do que do realismo.                       |
@@ -25,13 +29,11 @@ link da imagem
 
 ### 📚 Aprendizados
 
-- A forma como o prompt é escrito influencia bastante o tipo de imagem gerada. Mesmo com a mesma frase, o estilo muda muito entre **Copilot** e **GPT**.
+- A forma como o prompt é escrito influencia bastante o tipo de imagem gerada. Mesmo com a mesma frase, o estilo muda muito entre **Copilot** e **OpenAI**.
 - **Copilot** é melhor para imagens realistas, que parecem fotos ou cenas de filmes.
-- **GPT** funciona bem para imagens artísticas, com mais estilo e criatividade.
+- **OpenAI** funciona bem para imagens artísticas, com mais estilo e criatividade.
 - Cada ferramenta tem um ponto forte diferente – **uma brilha no realismo**, **a outra na originalidade**.
 - Saber o **objetivo da imagem** (ex: usar num slide, pôster ou como ilustração) ajuda a escolher qual IA usar.
-
----
 
 ### 🧠 Conclusão Pessoal
 
@@ -39,10 +41,10 @@ Gostei bastante do resultado das duas ferramentas, mas elas entregam propostas b
 
 A imagem do **Copilot** impressiona pela **riqueza de detalhes**, parece uma cidade que poderia mesmo existir no futuro. É ideal para projetos que pedem um toque mais sério e profissional.
 
-Já a imagem do **GPT** chama atenção pelo **estilo criativo**. Tem cara de arte digital moderna, que poderia estar numa capa de livro, de álbum ou jogo. Passa uma emoção mais artística.
+Já a imagem do **OpenAI** chama atenção pelo **estilo criativo**. Tem cara de arte digital moderna, que poderia estar numa capa de livro, de álbum ou jogo. Passa uma emoção mais artística.
 
 👉 **Se eu quisesse impressionar visualmente com algo realista, iria de Copilot.**  
-👉 **Se quisesse criar algo com estilo único e marcante, escolheria o GPT.**
+👉 **Se quisesse criar algo com estilo único e marcante, escolheria o OpenAI.**
 
 ✨ *Copilot é um futuro que parece real.*  
-🎨 *GPT é um futuro que te faz imaginar.*
+🎨 *OpenAI é um futuro que te faz imaginar.*
