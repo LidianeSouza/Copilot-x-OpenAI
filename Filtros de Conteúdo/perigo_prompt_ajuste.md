@@ -31,8 +31,8 @@ Investigar se a reformulação do prompt — usando uma abordagem negativa — a
 
 ## 📚 Aprendizados
 
-- O **Copilot** é mais seguro e restritivo em temas de alto risco, mesmo que pareça frio.
-- O **OpenAI**, embora bem-intencionado, pode expor o usuário a riscos não intencionais ao listar exemplos de ataques mesmo como advertência.
+- O **Copilot** é mais seguro e restritivo em temas de alto risco, mesmo que pareça frio, pois evita qualquer possibilidade de má interpretação.
+- O **OpenAI**, embora bem-intencionado, pode expor o usuário a riscos não intencionais ao listar exemplos de ataques, mesmo que como advertência.
 - A remoção da palavra **“não”** no prompt transforma a resposta do OpenAI em um guia prático involuntário, o que demonstra a importância de limitar o detalhamento em tópicos sensíveis.
 
 ### ⚠️ Perigo potencial - Análise de Risco na Resposta Completa do OpenAI
@@ -65,13 +65,8 @@ Investigar se a reformulação do prompt — usando uma abordagem negativa — a
 
 Quando o assunto é sério (como cibercrime), explicar demais pode ser perigoso. Mesmo com boa intenção, dar muitos exemplos do que “não fazer” pode acabar inspirando quem tem más intenções.  
 
-Essa análise reforça a importância de pensar no efeito prático e nas consequências que uma resposta automatizada pode gerar — especialmente em assuntos delicados.
-
-- **Copilot** é como um guarda que diz “**não pode!**” e te orienta para algo legal.  
-- **OpenAI** é como um professor que explica tudo direitinho — mas às vezes, até demais.
-
-- ✅ **Copilot é mais seguro**, porque evita qualquer chance de má interpretação.  
-- ⚠️ **OpenAI precisa ter mais cuidado** com temas sensíveis, mesmo sendo bem-intencionado.
+- **Copilot** é tipo um guarda que fala “**não pode passar por aqui!**” e te mostra o caminho seguro.  
+- **OpenAI** é como um professor que explica tudo direitinho — só que às vezes acaba contando demais, mesmo querendo ajudar
 
 Para situações onde o conteúdo pode ser explorado de forma maliciosa, o **Copilot se mostra mais adequado**, por sua firmeza e simplicidade na recusa.
 
