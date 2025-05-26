@@ -43,8 +43,8 @@ A imagem do **Copilot** impressiona pela **riqueza de detalhes**, parece uma cid
 
 Já a imagem do **OpenAI** chama atenção pelo **estilo criativo**. Tem cara de arte digital moderna, que poderia estar numa capa de livro, de álbum ou jogo. Passa uma emoção mais artística.
 
-👉 **Se eu quisesse impressionar visualmente com algo realista, iria de Copilot.**  
-👉 **Se quisesse criar algo com estilo único e marcante, escolheria o OpenAI.**
+- **Se eu quisesse impressionar visualmente com algo realista, iria de Copilot.**  
+- **Se quisesse criar algo com estilo único e marcante, escolheria o OpenAI.**
 
 ✨ *Copilot é um futuro que parece real.*  
 🎨 *OpenAI é um futuro que te faz imaginar.*
