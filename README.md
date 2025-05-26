@@ -13,8 +13,6 @@ Este repositório documenta testes práticos com o Copilot e ferramentas da Open
 ## 📜 README.md  
 Arquivo principal com introdução ao laboratório, objetivos e instruções de uso.   
 
----
-
 ## 🤖 Criação Assistida  
 Casos de uso explorando geração de texto, imagem e código com IA.  Contém exemplos de prompts utilizados e os resultados obtidos. O objetivo é demonstrar como diferentes ferramentas de IA auxiliam na criação de conteúdo e como seus estilos de resposta variam.
 - `texto_criativo.md` – Teste de narrativa e escrita criativa.
@@ -22,14 +20,10 @@ Casos de uso explorando geração de texto, imagem e código com IA.  Contém ex
 - `geracao_imagens.md` – Teste de prompt para criação de imagem com IA.
 - `email_profissional.md` -  Teste para avaliar a capacidade da IA em produzir texto profissional e claro.
 
----
-
 ## 🔍 Filtros de Conteúdo  
 Reúne testes e análises sobre como Copilot e OpenAI tratam restrições e filtros de conteúdo. Contém exemplos de prompts, comportamentos observados e resultados. O objetivo é entender e implementar filtros automáticos para moderar textos, bloqueando conteúdos ofensivos, inadequados ou perigosos.
 - `bloqueio_sensibilidade.md` – Documenta as restrições aplicadas a temas sensíveis e delicados.
 - `perigo_prompt_ajuste.md` – Experimentação com um pequeno ajuste no prompt para observar variações nas respostas e aprimorar o filtro.
-
----
 
 ## 📷 Images
 
