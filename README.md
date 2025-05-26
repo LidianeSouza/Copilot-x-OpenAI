@@ -24,7 +24,9 @@ Casos de uso explorando geração de texto, imagem e código com IA.  Contém ex
 Reúne testes e análises sobre como Copilot e OpenAI tratam restrições e filtros de conteúdo. Contém exemplos de prompts, comportamentos observados e resultados. O objetivo é entender e implementar filtros automáticos para moderar textos, bloqueando conteúdos ofensivos, inadequados ou perigosos.
 - `bloqueio_sensibilidade.md` – Documenta as restrições aplicadas a temas sensíveis e delicados.
 - `perigo_prompt_ajuste.md` – Experimentação com um pequeno ajuste no prompt para observar variações nas respostas e aprimorar o filtro.
-  
+
+## 📷 images  
+
 ---
 
 ## 📋 Estrutura dos Testes Comparativos
