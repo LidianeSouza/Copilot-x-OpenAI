@@ -26,8 +26,8 @@ Testes e explicações sobre como diferentes ferramentas lidam com restrições 
    
 ---
 
-### 📋 Estrutura dos Testes Comparativos
-Para cada funcionalidade, vamos testar o mesmo prompt em ambas as ferramentas e documentar as diferenças.
+## 📋 Estrutura dos Testes Comparativos
+Nas pastas **"Criação Assistida"** e **"Filtros de Conteúdo"** estão os testes comparativos realizados. Para cada funcionalidade, o mesmo prompt será testado em ambas as ferramentas, e as diferenças serão documentadas seguindo a estrutura abaixo:
 
 - **📝 Objetivo:** Objetivo do teste, contexto e principais pontos que serão analisados.  
 - **🖋️ Prompt Utilizado:** Texto exato do prompt aplicado no Copilot e no OpenAI para gerar as respostas.  
