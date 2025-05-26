@@ -13,6 +13,10 @@ A ideia aqui é analisar como as IAs criam um texto formal, claro e profissional
 
 ### 🎯 Resultado Obtido
 
+| Resposta gerada pelo Copilot                                           | Resposta gerada pelo OpenAI                                            |
+|------------------------------------------------------------------------|------------------------------------------------------------------------|
+| ![Copilot](../images/criacao_assistida/email_profissional_copilot.png) | ![OpenAI](../images/criacao_assistida/email_profissional_openai.png)   |
+
 ### 🔍 Análise Comparativa
 
 | Critério                      | 🤖 **Copilot**                                                                            | 🚀 **OpenAI**                                                                                  |
