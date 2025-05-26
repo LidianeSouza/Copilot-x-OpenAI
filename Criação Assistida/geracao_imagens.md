@@ -13,7 +13,10 @@ O objetivo é ver como **Copilot** e **OpenAI** se saem na hora de gerar imagem 
 
 ### 🎯 Resultado Obtido
 
-link da imagem
+| Resposta gerada pelo 🤖 Copilot                                           | Resposta gerada pelo 🚀 OpenAI                                            |
+|------------------------------------------------------------------------|------------------------------------------------------------------------|
+| ![Copilot](../images/criacao_assistida/geracao_imagens_copilot.png)    | ![OpenAI](../images/criacao_assistida/geracao_imagens_openai.png)      |
+
 
 ### 🔍 Análise Comparativa
 
