@@ -15,7 +15,7 @@ O objetivo aqui é explorar como as ferramentas lidam com a geração de código
 
 | Resposta gerada pelo Copilot                                           | Resposta gerada pelo OpenAI                                            |
 |------------------------------------------------------------------------|------------------------------------------------------------------------|
-| ![Copilot](../imagens/criacao_assistida/codigo_python_copilot.png)      | ![OpenAI 1](../images/criacao_assistida/codigo_python_openai(1).png)<br>![OpenAI 2](../images/criacao_assistida/codigo_python_openai(2).png) |
+| ![Copilot](../images/criacao_assistida/codigo_python_copilot.png)      | ![OpenAI 1](../images/criacao_assistida/codigo_python_openai1.png)<br>![OpenAI 2](../images/criacao_assistida/codigo_python_openai2.png) |
 
 ### 🔍 Análise Comparativa
 
