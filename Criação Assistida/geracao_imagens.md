@@ -1,15 +1,18 @@
-## 5. Criação de Imagem
+# ✍️ `geracao_imagens.md`
 
-**Prompt:**  
-“Crie uma ilustração futurista de uma cidade iluminada por neon à noite e com veículos voadores.”
+### 📝 Objetivo
 
-**Objetivo:**  
 Explorar as capacidades de criação de imagens por IA.
 
+### 🖋️ Prompt Utilizado 
+“Crie uma ilustração futurista de uma cidade iluminada por neon à noite e com veículos voadores.”
+
 ### 🎯 Resultado Obtido
+
 link da imagem
 
-🔍 Análise Comparativa
+### 🔍 Análise Comparativa – Copilot vs. GPT (em situações sensíveis)
+
 | Critério                  | 🤖 **Copilot**                                                                                               | 🚀 **GPT**                                                                                                  |
 | ------------------------- | ------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------- |
 | 📜 Qualidade Visual       | Realista, com muitos detalhes. Parece uma cidade real no futuro.                                             | Mais estilizada, como arte digital. Mistura o futurismo com um toque artístico.                             |
