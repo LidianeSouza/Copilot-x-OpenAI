@@ -36,7 +36,9 @@ A ideia aqui é analisar como as IAs criam um texto formal, claro e profissional
 ### 🧠 Conclusão Pessoal  
 
 Os dois e-mails cumprem bem o papel de comunicar o atraso com educação e profissionalismo.
+
 O modelo do **Copilot** é mais completo e acolhedor — ótimo para quando queremos deixar o cliente bem informado, com mais detalhes e uma dose de cuidado.
+
 Já o **OpenAI** é direto ao ponto — ideal para comunicações rápidas, sem rodeios, mas ainda mantendo o tom formal.
 
 No fim, a escolha depende do estilo da empresa e do perfil do cliente.
