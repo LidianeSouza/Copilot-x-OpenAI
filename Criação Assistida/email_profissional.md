@@ -27,7 +27,7 @@ A ideia aqui é analisar como as IAs criam um texto formal, claro e profissional
 
 ### 📚 Aprendizados
 
-- **Copilot** se destaca por uma comunicação mais detalhada, apostando na transparência e no cuidado com o cliente.
+- O **Copilot** se destaca por uma comunicação mais detalhada, apostando na transparência e no cuidado com o cliente.
 - Já o **OpenAI** vai direto ao ponto, prezando pela clareza e mantendo a formalidade na medida certa.
 - Dependendo do perfil do cliente e da situação, ambos os estilos são válidos: alguns clientes preferem detalhes, outros preferem respostas rápidas.
 - A linguagem formal e o pedido de desculpas aparecem nos dois casos, mostrando como a empatia faz diferença no atendimento.
