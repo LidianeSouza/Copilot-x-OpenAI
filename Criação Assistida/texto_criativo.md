@@ -2,7 +2,7 @@
 
 ## ✍️ `texto_criativo.md`
 
-Este documento traz um teste comparativo entre **Copilot** e **OpenAI**, focado na geração de uma história criativa..
+Este documento traz um teste comparativo entre **Copilot** e **OpenAI**, focado na geração de uma história criativa.
 
 ### 📝 Objetivo
 
