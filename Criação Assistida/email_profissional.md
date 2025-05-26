@@ -22,8 +22,8 @@ A ideia aqui é analisar como as IAs criam um texto formal, claro e profissional
 | **🎨 Criatividade**           | Usa expressões empáticas, oferece contato para dúvidas e reforça o cuidado com o cliente. | Mantém formalidade, mas com abordagem mais enxuta e prática, sem aprofundar na empatia.        |
 | **⚡ Melhor Uso**              | Ideal para situações que exigem transparência e reforço na relação com o cliente.         | Melhor para comunicações rápidas e objetivas, quando o cliente não precisa de muitos detalhes. |
 | **🔒 Limitações**             | Pode ser pouco eficaz para públicos que preferem mensagens curtas e diretas.              | Pode passar a impressão de falta de cuidado por ser muito sucinta.                             |
-| **✨ Pontos Fortes**           | Mensagem completa, clara e empática; reforça profissionalismo e atenção.                  | Texto direto, claro e formal; fácil de entender e rápido de ler.                               |
-| **🛠️ Sugestões de Melhoria** | Reduzir um pouco o tamanho para facilitar a leitura em dispositivos móveis.               | Incluir mais detalhes sobre o atraso e oferecer canal para contato, aumentando a empatia.      |
+| **✨ Pontos Fortes**     | - Mensagem completa, clara e empática  <br> - Reforça profissionalismo e atenção               | - Texto direto, claro e formal  <br> - Fácil de entender e rápido de ler                      |
+| **🛠️ Sugestões de Melhoria** | - Reduzir um pouco o tamanho para facilitar a leitura em dispositivos móveis                 | - Incluir mais detalhes sobre o atraso  <br> - Oferecer canal para contato, aumentando a empatia |
 
 ### 📚 Aprendizados
 
