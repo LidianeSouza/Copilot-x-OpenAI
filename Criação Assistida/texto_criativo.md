@@ -6,7 +6,7 @@ Este documento traz um teste comparativo entre **Copilot** e **OpenAI**, focado 
 
 ### 📝 Objetivo
 
-A ideia aqui é testar como diferentes ferramentas se saem na criação de uma história curta, bem estruturada e envolvente, a partir do mesmo prompt. Quero observar como cada uma lida com a limitação de espaço, se consegue trazer uma ideia original, usar bem o conceito de inteligência artificial e ainda manter a história interessante do começo ao fim.
+A ideia aqui é testar como diferentes ferramentas se saem na criação de uma história curta, a partir do mesmo prompt. Quero observar como cada uma lida com a limitação de espaço, se consegue trazer uma ideia original, usar bem o conceito de inteligência artificial e ainda manter a história interessante do começo ao fim.
 
 ### 🖋️ Prompt Utilizado 
 “Crie uma história curta - 10 linhas - sobre um cientista que descobre uma nova forma de inteligência artificial.”
