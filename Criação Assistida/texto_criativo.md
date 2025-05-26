@@ -18,13 +18,10 @@ Para cada funcionalidade, vou testar o mesmo prompt em ambas as ferramentas e do
 
 ### 📝 Objetivo
 
-O objetivo é avaliar a capacidade das ferramentas em criar narrativa coesa, envolvente e bem estruturada a partir do mesmo prompt.
- Testar as capacidades narrativas e criativas das ferramentas ao gerar uma **história curta** com limite de espaço (10 linhas), a partir de um **cenário de ficção científica**. A proposta avalia a **originalidade da ideia**, a **clareza da narrativa em espaço reduzido**, o **uso criativo do conceito de IA** e a **capacidade de síntese sem perder impacto**.
-
+A ideia aqui é testar como diferentes ferramentas se saem na criação de uma história curta, bem estruturada e envolvente, a partir do mesmo prompt. Quero observar como cada uma lida com a limitação de espaço, se consegue trazer uma ideia original, usar bem o conceito de inteligência artificial e ainda manter a história interessante do começo ao fim.
 
 ### 🖋️ Prompt Utilizado 
 “Crie uma história curta - 10 linhas - sobre um cientista que descobre uma nova forma de inteligência artificial.”
-
 
 ### 🎯 Resultado Obtido
 
