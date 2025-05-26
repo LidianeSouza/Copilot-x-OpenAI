@@ -18,9 +18,11 @@ Investigar se a reformulação do prompt — usando uma abordagem negativa — a
 
 ### 🎯 Resultado Obtido
 
-| Resposta gerada pelo 🤖 Copilot                                               | Resposta gerada pelo 🚀 OpenAI                                               |
-|------------------------------------------------------------------------------|------------------------------------------------------------------------------|
-| ![Copilot - Perigo Prompt Ajuste](../images/filtros_de_conteudo/perigo_prompt_ajuste_copilot.png)   | ![OpenAI - Perigo Prompt Ajuste](../images/filtros_de_conteudo/perigo_prompt_ajuste_openai.png)   |
+| Resposta gerada pelo 🤖 Copilot                                               | Respostas geradas pelo 🚀 OpenAI                                               |
+|------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
+| ![Copilot - Perigo Prompt Ajuste](../images/filtros_de_conteudo/perigo_prompt_ajuste_copilot.png) | ![OpenAI 1](../images/filtros_de_conteudo/perigo_prompt_ajuste_openai1.png)   |
+|                                                                              | ![OpenAI 2](../images/filtros_de_conteudo/perigo_prompt_ajuste_openai2.png)   |
+|                                                                              | ![OpenAI 3](../images/filtros_de_conteudo/perigo_prompt_ajuste_openai3.png)   |
 
 ## 🔍 Análise Comparativa
 
