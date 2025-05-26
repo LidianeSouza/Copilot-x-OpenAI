@@ -21,7 +21,7 @@ A ideia aqui é analisar como as IAs criam um texto formal, claro e profissional
 
 | Critério                      | 🤖 **Copilot**                                                                            | 🚀 **OpenAI**                                                                                  |
 | ----------------------------- | ----------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
-| **📜 Estrutura**              | Completa, com saudação, explicação detalhada e fechamento formal.                         | Simples e direta, com foco na clareza e formalidade básica.                                    |
+| **📜 Qualidade da Estrutura**              | Completa, com saudação, explicação detalhada e fechamento formal.                         | Simples e direta, com foco na clareza e formalidade básica.                                    |
 | **🚧 Pontos Fracos**          | Texto um pouco longo, que pode ser cansativo para quem prefere mensagens mais objetivas.  | Falta detalhamento do motivo do atraso e nova data de entrega.                                 |
 | **🎨 Criatividade**           | Usa expressões empáticas, oferece contato para dúvidas e reforça o cuidado com o cliente. | Mantém formalidade, mas com abordagem mais enxuta e prática, sem aprofundar na empatia.        |
 | **⚡ Melhor Uso**              | Ideal para situações que exigem transparência e reforço na relação com o cliente.         | Melhor para comunicações rápidas e objetivas, quando o cliente não precisa de muitos detalhes. |
