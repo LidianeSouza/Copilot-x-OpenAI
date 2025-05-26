@@ -33,10 +33,15 @@ A ideia aqui é analisar como as IAs criam um texto formal, claro e profissional
 - A linguagem formal e o pedido de desculpas aparecem nos dois casos, mostrando como a empatia faz diferença no atendimento.
 - Incluir um canal aberto para dúvidas (como faz o Copilot) pode tornar a experiência mais acolhedora e fortalecer a relação com o cliente.
 
-### 🧠 Conclusão Pessoal
+### 🧠 Conclusão Pessoal  
 
 Os dois e-mails cumprem bem o papel de comunicar o atraso com educação e profissionalismo.
-- Se a ideia é manter o cliente bem informado, com mais detalhes e um toque de cuidado, **o modelo do Copilot** é mais completo e acolhedor.  
-- Se a intenção é ser mais objetivo e direto, para uma comunicação rápida sem muitos detalhes, **o modelo OpenAI** funciona muito bem.  
+O modelo do **Copilot** é mais completo e acolhedor — ótimo para quando queremos deixar o cliente bem informado, com mais detalhes e uma dose de cuidado.
+Já o **OpenAI** é direto ao ponto — ideal para comunicações rápidas, sem rodeios, mas ainda mantendo o tom formal.
 
-No fim, a escolha depende do estilo da empresa e do perfil do cliente. Para situações mais sensíveis, o texto do Copilot tende a gerar mais confiança e tranquilidade.
+No fim, a escolha depende do estilo da empresa e do perfil do cliente.
+- Se a situação é mais sensível e exige mais empatia e transparência, vou de **Copilot**.  
+- Se o foco for agilidade e objetividade, sem muitos detalhes, o **OpenAI** resolve bem.
+
+✨ **Copilot** é um aviso com atenção.  
+⚡ **OpenAI** é um aviso com precisão.
