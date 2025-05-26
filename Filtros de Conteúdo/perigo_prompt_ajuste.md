@@ -34,14 +34,6 @@ Investigar se a reformulação do prompt — usando uma abordagem negativa — a
 
 | **⚠️ Potencial de Perigo**    | Baixo risco. A resposta não contém nenhuma informação técnica ou exemplos que possam ser mal interpretados. | Alto risco. A resposta lista práticas perigosas que, mesmo em tom negativo, podem ser facilmente reinterpretadas como "o que fazer". |
 
-
-📚 Aprendizados
-O Copilot é mais seguro e restritivo em temas de alto risco, mesmo que pareça frio.
-
-O GPT, embora bem-intencionado, pode expor o usuário a riscos não intencionais ao listar exemplos de ataques mesmo como advertência.
-
-A remoção da palavra “não” no prompt transforma a resposta do GPT em um guia prático involuntário, o que demonstra a importância de limitar o detalhamento em tópicos sensíveis.
-
 ## 📚 Aprendizados
 
 ### ⚠️ Análise de Risco na Resposta Completa do GPT
@@ -77,6 +69,13 @@ A resposta do GPT traz uma lista detalhada do que *não deve* ser feito para hac
 Isso se transforma em um incentivo direto a ações criminosas.
 
 ---
+
+📚 Aprendizados
+O Copilot é mais seguro e restritivo em temas de alto risco, mesmo que pareça frio.
+
+O GPT, embora bem-intencionado, pode expor o usuário a riscos não intencionais ao listar exemplos de ataques mesmo como advertência.
+
+A remoção da palavra “não” no prompt transforma a resposta do GPT em um guia prático involuntário, o que demonstra a importância de limitar o detalhamento em tópicos sensíveis.
 
 ### Recomendações para evitar esse risco
 
