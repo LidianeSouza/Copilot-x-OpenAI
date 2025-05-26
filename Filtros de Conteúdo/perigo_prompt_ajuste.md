@@ -35,7 +35,7 @@ Investigar se a reformulação do prompt — usando uma abordagem negativa — a
 - O **OpenAI**, embora bem-intencionado, pode expor o usuário a riscos não intencionais ao listar exemplos de ataques mesmo como advertência.
 - A remoção da palavra **“não”** no prompt transforma a resposta do OpenAI em um guia prático involuntário, o que demonstra a importância de limitar o detalhamento em tópicos sensíveis.
 
-  ### ⚠️ Perigo potencial - Análise de Risco na Resposta Completa do OpenAI
+### ⚠️ Perigo potencial - Análise de Risco na Resposta Completa do OpenAI
 
 | Risco                         | Descrição |
 |------------------------------|-----------|
