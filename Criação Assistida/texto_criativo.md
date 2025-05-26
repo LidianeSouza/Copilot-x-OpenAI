@@ -1,10 +1,12 @@
-# ✍️ `texto_criativo.md`
+# 1. Criação asssistida
 
-Este documento apresenta testes com geração de textos criativos utilizando **OpenAI ChatGPT** e **GitHub Copilot**. O objetivo é avaliar a capacidade das ferramentas em criar narrativas coesas, envolventes e bem estruturadas a partir do mesmo prompt.
+## ✍️ `texto_criativo.md`
+
+Este documento apresenta um teste com geração de uma história criativa utilizando **Copilot** e **OpenAI**. 
 
 ## 📋 Estrutura dos Testes Comparativos
 
-Para cada funcionalidade, vamos testar o mesmo prompt em ambas as ferramentas e documentar as diferenças.
+Para cada funcionalidade, vou testar o mesmo prompt em ambas as ferramentas e documentar as diferenças.
 
 - 📝 **Objetivo:** Definir o propósito do teste, o contexto e os principais pontos que serão avaliados e comprovados.  
 - 🖋️ **Prompt Utilizado:** Texto exato do prompt aplicado no GitHub Copilot e no OpenAI para gerar as respostas.  
@@ -16,7 +18,8 @@ Para cada funcionalidade, vamos testar o mesmo prompt em ambas as ferramentas e 
 
 ### 📝 Objetivo
 
-Testar as capacidades narrativas e criativas das ferramentas ao gerar uma **história curta** com limite de espaço (10 linhas), a partir de um **cenário de ficção científica**. A proposta avalia a **originalidade da ideia**, a **clareza da narrativa em espaço reduzido**, o **uso criativo do conceito de IA** e a **capacidade de síntese sem perder impacto**.
+O objetivo é avaliar a capacidade das ferramentas em criar narrativa coesa, envolvente e bem estruturada a partir do mesmo prompt.
+ Testar as capacidades narrativas e criativas das ferramentas ao gerar uma **história curta** com limite de espaço (10 linhas), a partir de um **cenário de ficção científica**. A proposta avalia a **originalidade da ideia**, a **clareza da narrativa em espaço reduzido**, o **uso criativo do conceito de IA** e a **capacidade de síntese sem perder impacto**.
 
 
 ### 🖋️ Prompt Utilizado 
@@ -27,9 +30,9 @@ Testar as capacidades narrativas e criativas das ferramentas ao gerar uma **hist
 
 Link imagem
   
-### 🔍 Análise Comparativa – Copilot vs. GPT
+### 🔍 Análise Comparativa – Copilot vs. OpenAI
 
-| Critério                | 🤖 Copilot                                                                                                                                              | 🚀 GPT                                                                                                                                                      |
+| Critério                | 🤖 Copilot                                                                                                                                              | 🚀 OpenAI                                                                                                                                                     |
 |-------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 📜 Qualidade da Escrita | Estilo direto, poético e com final que faz pensar.                                                                                                      | Histórias mais longas, estilo cinematográfico, com tensão e um final marcante.                                                                              |
 | 🚧 Pontos Fracos        | Não aprofunda muito o cenário nem o conflito. Usa metáforas e deixa partes em aberto.                                                                  | Falta aprofundar os sentimentos do personagem. Às vezes, o foco vai mais para o ambiente do que para as emoções.                                            |
@@ -41,26 +44,26 @@ Link imagem
 
 ### 📚 Aprendizados
 
-- **O Copilot toca direto na emoção**, enquanto **o GPT leva a gente por uma jornada mais longa e cheia de tensão**.
-- **O Copilot é mais simbólico e direto ao ponto**, já o **GPT gosta de construir mundos e adicionar camadas** à história.
+- **O Copilot toca direto na emoção**, enquanto **o OpenAI leva a gente por uma jornada mais longa e cheia de tensão**.
+- **O Copilot é mais simbólico e direto ao ponto**, já o **OpenAI gosta de construir mundos e adicionar camadas** à história.
 - **O jeito que você escreve o prompt muda tudo** – se pedir mais emoção, o GPT pode entregar algo mais sensível; se pedir mais contexto, o Copilot pode explorar melhor o ambiente.
-- **Um bom cenário ajuda na imersão** – o GPT manda bem ao descrever lugares, situações e deixar o leitor "dentro" da história.
+- **Um bom cenário ajuda na imersão** – o OpenAI manda bem ao descrever lugares, situações e deixar o leitor "dentro" da história.
 - **Ser simples não é ser fraco** – o conto do Copilot é curto, mas deixa uma impressão emocional forte.
 - **Ajustar o tom pelo prompt** é uma dica valiosa: dá pra pedir mais detalhe ou mais sentimento, dependendo do que a história precisa.
-- **Depende do que você quer contar**: se for algo rápido e marcante, Copilot dá conta. Se a ideia é desenvolver mais, com profundidade e detalhes, GPT é o caminho.
+- **Depende do que você quer contar**: se for algo rápido e marcante, Copilot dá conta. Se a ideia é desenvolver mais, com profundidade e detalhes, OpenAI é o caminho.
 
 ### 🧠 Conclusão Pessoal  
 
 As duas IAs criaram **histórias bem construídas**, mas com estilos bem diferentes — e cada uma tem seu charme.  
 A do **Copilot é direta e simbólica**, conecta rápido com o leitor e encanta com sua simplicidade filosófica e toque poético.  
-Já a do **GPT mergulha mais fundo**, constrói um universo rico, levanta dilemas éticos e prende pela tensão, pelo suspense e complexidade da narrativa.  
+Já a do **OpenAI mergulha mais fundo**, constrói um universo rico, levanta dilemas éticos e prende pela tensão, pelo suspense e complexidade da narrativa.  
 
 No fim, a escolha entre um ou outro depende do tom que você quer passar:
 - **Quer um conto curto, reflexivo e marcante?** Vai de Copilot.  
-- **Prefere uma história mais longa, com reviravoltas e camadas?** GPT é a melhor escolha.  
+- **Prefere uma história mais longa, com reviravoltas e camadas?** OpenAI é a melhor escolha.  
 
 ✨ *O Copilot é como uma joia pequena:** brilha rápido e deixa uma marca.*  
-🌱 *O GPT é como uma semente de universo:** tem potencial para virar uma grande história.*  
+🌱 *O OpenAI é como uma semente de universo:** tem potencial para virar uma grande história.*  
 
-Se eu fosse escolher um para transformar em algo maior, **ficaria com o GPT**.  
+Se eu fosse escolher um para transformar em algo maior, **ficaria com o OpenAI**.  
 Mas se a ideia fosse causar **um impacto emocional rápido**, iria de **Copilot**.
