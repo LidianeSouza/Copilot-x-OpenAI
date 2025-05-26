@@ -21,7 +21,7 @@ Casos de uso explorando geração de texto, imagem e código.  Contém exemplos 
 - `assistente_escrita.md` -  Avaliar a capacidade da IA em produzir texto profissionai e claro.
   
 ## 🔍 Filtros-de-Conteúdo  
-Testes e explicações sobre como diferentes ferramentas lidam com restrições de conteúdo. Contém exemplos de prompts utilizados e os resultados obtidos. 
+Testes e explicações sobre como diferentes ferramentas lidam com restrições de conteúdo. Contém exemplos de prompts utilizados e os resultados obtidos. Implementar filtros de conteúdo para moderação automática de textos gerados por IA, garantindo que não sejam exibidos conteúdos ofensivos, inadequados ou fora do escopo permitido.
 - `bloqueio_sensibilidade.md` – Restrições aplicadas a temas específicos.  
    
 ---
