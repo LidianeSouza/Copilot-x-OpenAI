@@ -1,4 +1,4 @@
-# 1. Criação asssistida
+# Criação asssistida
 
 ## ✍️ `texto_criativo.md`
 
