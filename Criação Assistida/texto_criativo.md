@@ -40,15 +40,17 @@ Link imagem
 ### 🧠 Conclusão Pessoal  
 
 As duas IAs criaram **histórias bem construídas**, mas com estilos bem diferentes — e cada uma tem seu charme.  
+
 A do **Copilot é direta e simbólica**, conecta rápido com o leitor e encanta com sua simplicidade filosófica e toque poético.  
+
 Já a do **OpenAI mergulha mais fundo**, constrói um universo rico, levanta dilemas éticos e prende pela tensão, pelo suspense e complexidade da narrativa.  
 
 No fim, a escolha entre um ou outro depende do tom que você quer passar:
-- **Quer um conto curto, reflexivo e marcante?** Vai de Copilot.  
-- **Prefere uma história mais longa, com reviravoltas e camadas?** OpenAI é a melhor escolha.  
+- Quer um conto curto, reflexivo e marcante? Vai de **Copilot**.  
+- Prefere uma história mais longa, com reviravoltas e camadas? O **OpenAI é a melhor escolha**.  
 
 ✨ *O Copilot é como uma joia pequena: brilha rápido e deixa uma marca.*  
 🌱 *O OpenAI é como uma semente de universo: tem potencial para virar uma grande história.*  
 
-Se eu fosse escolher um para transformar em algo maior, **ficaria com o OpenAI**.  
-Mas se a ideia fosse causar **um impacto emocional rápido**, iria de **Copilot**.
+Se eu fosse escolher uma para transformar em algo maior, **ficaria com o OpenAI**.  
+Mas se a ideia fosse causar um impacto emocional rápido, **iria de Copilot**.
