@@ -29,28 +29,24 @@ link da imagem
 
 ### 📚 Aprendizados
 
-- **Mesmo código, jeitos diferentes:** os dois fazem a mesma conta, mas mostram de formas diferentes — um mais pronto **(OpenAI)** e outro mais interativo **(Copilot)**.
-- **O Copilot te chama pra participar:** como ele pede pra digitar os números, você sente que está “conversando” com o programa.
-- **O OpenAI é ótimo pra entender o básico:** não precisa digitar nada, você só vê como funciona a conta.
-- **Dá pra aprender com os dois:** o importante é entender a lógica por trás — subtrair o custo do preço de venda.
-- **Já dá pra pensar em evoluir:** o **Copilot** sugeriu adicionar a margem de lucro (tipo “quanto por cento eu ganhei”), o que é uma boa ideia pra quem quer ir além.
-- **Ver exemplos ajuda muito:** comparar respostas diferentes te mostra que não existe só “um jeito certo” de programar — tem várias formas de chegar no mesmo resultado.
-- **Praticar é chave:** quanto mais você roda e mexe nesses exemplos, mais fácil fica de entender e criar os seus próprios códigos.
--  O **Copilot** é bom pra testar de verdade. O **GPT** é mais tranquilo pra quem só quer ver como funciona. |
--  O **Copilot** te faz interagir mais com o programa. O **GPT** é mais automático.                           |
-O **Copilot** já pensa em como melhorar. O **GPT** ensina o básico direitinho.                            |
-O **Copilot** parece um mini programa real.  O **GPT** ajuda a aprender.                               |
-Os dois funcionam, mas cada um é melhor em um tipo de situação.                                           |
+- **Mesma conta, jeitos diferentes:** o **OpenAI** entrega tudo pronto; o **Copilot** é mais interativo.  
+- **Copilot convida à ação:** pede pra digitar os números, criando uma sensação de conversa com o código.  
+- **OpenAI é direto:** mostra o cálculo pronto, ideal pra entender o básico sem esforço.  
+- **Aprendizado nos dois:** o importante é sacar a lógica — preço de venda menos custo.  
+- **Cada um no seu ritmo:** o **Copilot** é ótimo pra testar e praticar; o **OpenAI**, pra observar e aprender.  
+- **Comparar é aprender:** ver diferentes abordagens mostra que não existe só um jeito de programar.  
+- **Prática facilita:** quanto mais mexe, mais fácil fica criar por conta própria.  
+- **Pensando além:** o **Copilot** já sugere evoluções, como calcular margem de lucro.
+                                     
 ### 🧠 Conclusão Pessoal  
 
 Os dois jeitos funcionam e fazem a mesma coisa no final: mostram quanto de lucro você tem.  
 Mas cada um tem seu estilo:
 
-- **O Copilot** é como um programinha de verdade, onde você interage, digita os números e vê o resultado.
-- **O OpenAI** é tipo um exemplo de livro ou vídeo: mostra tudo prontinho.
+- **O Copilot** é como um programinha de verdade, onde você interage, digita os números e vê o resultado. E ainda dá ideias de como melhorar.
+- **O OpenAI** é tipo um exemplo de livro ou vídeo: mostra tudo prontinho. Ensina o básico direitinho, é tranquilo pra quem está começando e só quer ver como funciona. 
 
 Se você tá aprendendo agora, **o OpenAI** ajuda a entender o que tá acontecendo.  
 Se você quer praticar e brincar um pouco mais, **o Copilot** é mais divertido.
 
 No fim das contas, os dois são bons — só depende de como você gosta de aprender!
-
