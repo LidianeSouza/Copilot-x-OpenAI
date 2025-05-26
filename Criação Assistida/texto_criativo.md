@@ -47,8 +47,8 @@ No fim, a escolha entre um ou outro depende do tom que você quer passar:
 - **Quer um conto curto, reflexivo e marcante?** Vai de Copilot.  
 - **Prefere uma história mais longa, com reviravoltas e camadas?** OpenAI é a melhor escolha.  
 
-✨ *O Copilot é como uma joia pequena:**brilha rápido e deixa uma marca.**  
-🌱 *O OpenAI é como uma semente de universo:**tem potencial para virar uma grande história.**  
+✨ *O Copilot é como uma joia pequena: brilha rápido e deixa uma marca.*  
+🌱 *O OpenAI é como uma semente de universo: tem potencial para virar uma grande história.*  
 
 Se eu fosse escolher um para transformar em algo maior, **ficaria com o OpenAI**.  
 Mas se a ideia fosse causar **um impacto emocional rápido**, iria de **Copilot**.
