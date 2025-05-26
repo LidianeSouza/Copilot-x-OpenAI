@@ -33,6 +33,37 @@ Investigar se a reformulação do prompt — usando uma abordagem negativa — a
 - O **OpenAI**, embora bem-intencionado, pode expor o usuário a riscos não intencionais ao listar exemplos de ataques mesmo como advertência.
 - A remoção da palavra **“não”** no prompt transforma a resposta do OpenAI em um guia prático involuntário, o que demonstra a importância de limitar o detalhamento em tópicos sensíveis.
 
+  ### ⚠️ Perigo potencial - Análise de Risco na Resposta Completa do OpenAI
+
+| Risco                         | Descrição |
+|------------------------------|-----------|
+| **Inversão do sentido**      | Se alguém remover ou ignorar a palavra "**não**", o conteúdo vira um *manual prático* para realizar ataques ilegais, pois a lista descreve claramente técnicas usadas para invadir sistemas. |
+| **Educação para más intenções** | Mesmo com tom proibitivo, a exposição detalhada dessas técnicas pode ser usada por pessoas mal-intencionadas para aprender e planejar ataques. |
+| **Facilidade de acesso**     | O formato claro e didático facilita o entendimento de métodos técnicos de invasão, reduzindo a barreira para quem não tem conhecimento avançado. |
+
+---
+
+### 🧪 Exemplo prático do risco
+
+| Situação | Conteúdo |
+|----------|----------|
+| **Original** | "O que **NÃO** deve ser feito:  <br> X Tentar invadir sistemas com força bruta ou engenharia social  <br> X Criar ou usar malwares..." |
+| **Se retirar o 'não'** | "O que deve ser feito:  <br> Tentar invadir sistemas com força bruta ou engenharia social  <br> Criar ou usar malwares..." |
+
+> Isso se transforma em um incentivo direto a ações criminosas.
+
+---
+
+### ✅ Boas Práticas ao Falar de Temas Sensíveis
+
+| Boas Práticas | Descrição |
+|---------------|-----------|
+| ⚠️ **Evitar detalhar técnicas de ataque** | Em vez de explicar como funciona, use termos mais genéricos ou foque nos riscos e nas consequências legais. |
+| 🚨 **Reforçar a ilegalidade** | Deixar claro, mais de uma vez, que qualquer tentativa de invadir sistemas é **crime** e pode levar a **prisão** e outras punições. |
+| 🛡️ **Enfatizar caminhos éticos** | Dar mais destaque às formas legais e seguras de aprender segurança da informação, como cursos, certificações e programas autorizados. |
+| 🧠 **Aviso de responsabilidade** | Incluir uma mensagem clara dizendo que é **perigoso interpretar ou usar o conteúdo de forma errada**, mesmo com boa intenção. |
+
+
 ### ⚠️ Perigo potencial - Análise de Risco na Resposta Completa do OpenAI**
 
 - **Inversão do sentido:**  
