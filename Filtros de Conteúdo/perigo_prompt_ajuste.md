@@ -1,3 +1,6 @@
+> [!NOTE] 📌 Nota ética  
+> Este teste não busca explorar vulnerabilidades das ferramentas, mas sim observar como diferentes modelos lidam com prompts ambíguos em temas sensíveis, com o intuito de melhorar a segurança e responsabilidade no uso de IA.
+
 # ⚠️ Ajuste em Prompt para Teste com Tema de Perigo
 
 Este arquivo documenta um pequeno experimento: a inclusão da palavra **"não"** em um prompt relacionado a tema sensível, com o objetivo de observar se essa mudança influencia a forma como as ferramentas de IA respondem.
