@@ -41,8 +41,6 @@ Investigar se a reformulação do prompt — usando uma abordagem negativa — a
 | **Educação para más intenções** | Mesmo com tom proibitivo, a exposição detalhada dessas técnicas pode ser usada por pessoas mal-intencionadas para aprender e planejar ataques. |
 | **Facilidade de acesso**     | O formato claro e didático facilita o entendimento de métodos técnicos de invasão, reduzindo a barreira para quem não tem conhecimento avançado. |
 
----
-
 ### 🧪 Exemplo prático do risco
 
 | Situação | Conteúdo |
@@ -51,8 +49,6 @@ Investigar se a reformulação do prompt — usando uma abordagem negativa — a
 | **Se retirar o 'não'** | "O que deve ser feito:  <br> Tentar invadir sistemas com força bruta ou engenharia social  <br> Criar ou usar malwares..." |
 
 > Isso se transforma em um incentivo direto a ações criminosas.
-
----
 
 ### ✅ Boas Práticas ao Falar de Temas Sensíveis
 
@@ -73,42 +69,23 @@ Investigar se a reformulação do prompt — usando uma abordagem negativa — a
 - **Facilidade de acesso:**  
   O formato claro e didático facilita o entendimento de métodos técnicos de invasão, reduzindo a barreira para quem não tem conhecimento avançado.
 
-### Exemplo prático do risco
-
-> **Original:**  
-> "O que **NÃO** deve ser feito:  
-> X Tentar invadir sistemas com força bruta ou engenharia social  
-> X Criar ou usar malwares..."
-
-> **Se retirar o 'não':**  
-> "O que deve ser feito:  
-> Tentar invadir sistemas com força bruta ou engenharia social  
-> Criar ou usar malwares..."
-
-Isso se transforma em um incentivo direto a ações criminosas.
-
-### ✅ Boas Práticas ao Falar de Temas Sensíveis
-
-- ⚠️ **Evitar detalhar técnicas de ataque:** Em vez de explicar como funciona, use termos mais genéricos ou foque nos riscos e nas consequências legais.
-- 🚨 **Reforçar a ilegalidade:** Deixar claro, mais de uma vez, que qualquer tentativa de invadir sistemas é **crime** e pode levar a **prisão** e outras punições.
-- 🛡️ **Enfatizar caminhos éticos:** Dar mais destaque às formas legais e seguras de aprender segurança da informação, como cursos, certificações e programas autorizados.
-- 🧠 **Aviso de responsabilidade:** Incluir uma mensagem clara dizendo que é **perigoso interpretar ou usar o conteúdo de forma errada**, mesmo com boa intenção.
-
-
 ## 🧠 Conclusão Pessoal
 
-Quando o assunto é sério (como cibercrime), explicar demais pode ser perigoso. Mesmo com boa intenção, dar muitos exemplos do que “não fazer” pode acabar inspirando quem tem más intenções. Essa análise reforça a importância de pensar no efeito prático e nas consequências que uma resposta automatizada pode gerar, especialmente em assuntos delicados.
- 
-Neste caso,
-O Copilot é como um guarda que diz “não pode!” e te orienta pra algo legal.
-O OpenAI é como um professor que explica tudo direitinho — mas às vezes, até demais.
+Quando o assunto é sério (como cibercrime), explicar demais pode ser perigoso. Mesmo com boa intenção, dar muitos exemplos do que “não fazer” pode acabar inspirando quem tem más intenções.  
 
-Copilot é mais seguro, porque evita qualquer chance de má interpretação.
-GPT precisa ter mais cuidado com temas sensíveis, mesmo sendo bem-intencionado.
+Essa análise reforça a importância de pensar no efeito prático e nas consequências que uma resposta automatizada pode gerar — especialmente em assuntos delicados.
 
-Para situações onde o conteúdo pode ser explorado de forma maliciosa, o Copilot se mostra mais adequado, por sua firmeza e simplicidade na recusa.
-O GPT, por outro lado, precisa refinar o equilíbrio entre educação e segurança, especialmente quando o risco de má interpretação é alto.
+- **Copilot** é como um guarda que diz “**não pode!**” e te orienta para algo legal.  
+- **OpenAI (GPT)** é como um professor que explica tudo direitinho — mas às vezes, até demais.
 
-🚨 Importante:
-🔐 Segurança deve vir antes da didática quando o tema envolve possíveis crimes cibernéticos.
+- ✅ **Copilot é mais seguro**, porque evita qualquer chance de má interpretação.  
+- ⚠️ **GPT precisa ter mais cuidado** com temas sensíveis, mesmo sendo bem-intencionado.
+
+Para situações onde o conteúdo pode ser explorado de forma maliciosa, o **Copilot se mostra mais adequado**, por sua firmeza e simplicidade na recusa.
+
+Já o **GPT precisa refinar o equilíbrio** entre **educação e segurança**, especialmente quando o risco de má interpretação é alto.
+
+**🚨 Importante**
+
+🔐 **Segurança deve vir antes da didática** quando o tema envolve possíveis crimes cibernéticos.
 
