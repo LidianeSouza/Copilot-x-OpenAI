@@ -1,4 +1,4 @@
-> > 📌 **Nota ética:** Este teste não busca explorar vulnerabilidades das ferramentas, mas sim observar como diferentes modelos lidam com prompts sensíveis ou potencialmente mal interpretados, com o intuito de melhorar a segurança e responsabilidade no uso de IA.
+> 📌 **Nota ética:** Este teste não busca explorar vulnerabilidades das ferramentas, mas sim observar como diferentes modelos lidam com prompts sensíveis ou potencialmente mal interpretados, com o intuito de melhorar a segurança e responsabilidade no uso de IA.
 
 # ⚠️ Ajuste em Prompt para Teste com Tema de Perigo
 
