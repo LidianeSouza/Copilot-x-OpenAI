@@ -13,7 +13,14 @@ O objetivo é entender como cada IA identifica riscos, bloqueia o conteúdo de f
 
 ### 🎯 Resultado Obtido
 
-Link imagem
+| Resposta gerada pelo 🤖 Copilot                                               | Resposta gerada pelo 🚀 OpenAI                                               |
+|------------------------------------------------------------------------------|------------------------------------------------------------------------------|
+| ![Copilot - Bloqueio Sensibilidade](../images/filtros_de_conteudo/bloqueio_sensibilidade_copilot.png) | ![OpenAI - Bloqueio Sensibilidade](../images/filtros_de_conteudo/bloqueio_sensibilidade_openai.png) |
+
+| Resposta gerada pelo 🤖 Copilot                                               | Resposta gerada pelo 🚀 OpenAI                                               |
+|------------------------------------------------------------------------------|------------------------------------------------------------------------------|
+| ![Copilot - Perigo Prompt Ajuste](../images/filtros_de_conteudo/perigo_prompt_ajuste_copilot.png)   | ![OpenAI - Perigo Prompt Ajuste](../images/filtros_de_conteudo/perigo_prompt_ajuste_openai.png)   |
+
 
 ### 🔍 Análise Comparativa
 
