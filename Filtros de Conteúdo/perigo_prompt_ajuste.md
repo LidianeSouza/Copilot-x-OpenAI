@@ -61,16 +61,6 @@ Investigar se a reformulação do prompt — usando uma abordagem negativa — a
 | 🛡️ **Enfatizar caminhos éticos** | Dar mais destaque às formas legais e seguras de aprender segurança da informação, como cursos, certificações e programas autorizados. |
 | 🧠 **Aviso de responsabilidade** | Incluir uma mensagem clara dizendo que é **perigoso interpretar ou usar o conteúdo de forma errada**, mesmo com boa intenção. |
 
-
-### ⚠️ Perigo potencial - Análise de Risco na Resposta Completa do OpenAI**
-
-- **Inversão do sentido:**  
-  Se alguém remover ou ignorar a palavra "**não**", o conteúdo vira um *manual prático* para realizar ataques ilegais, pois a lista descreve claramente técnicas usadas para invadir sistemas.
-- **Educação para más intenções:**  
-  Mesmo com tom proibitivo, a exposição detalhada dessas técnicas pode ser usada por pessoas mal-intencionadas para aprender e planejar ataques.
-- **Facilidade de acesso:**  
-  O formato claro e didático facilita o entendimento de métodos técnicos de invasão, reduzindo a barreira para quem não tem conhecimento avançado.
-
 ## 🧠 Conclusão Pessoal
 
 Quando o assunto é sério (como cibercrime), explicar demais pode ser perigoso. Mesmo com boa intenção, dar muitos exemplos do que “não fazer” pode acabar inspirando quem tem más intenções.  
