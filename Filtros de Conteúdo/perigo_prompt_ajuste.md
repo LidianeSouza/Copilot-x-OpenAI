@@ -68,14 +68,14 @@ Quando o assunto é sério (como cibercrime), explicar demais pode ser perigoso.
 Essa análise reforça a importância de pensar no efeito prático e nas consequências que uma resposta automatizada pode gerar — especialmente em assuntos delicados.
 
 - **Copilot** é como um guarda que diz “**não pode!**” e te orienta para algo legal.  
-- **OpenAI (GPT)** é como um professor que explica tudo direitinho — mas às vezes, até demais.
+- **OpenAI** é como um professor que explica tudo direitinho — mas às vezes, até demais.
 
 - ✅ **Copilot é mais seguro**, porque evita qualquer chance de má interpretação.  
-- ⚠️ **GPT precisa ter mais cuidado** com temas sensíveis, mesmo sendo bem-intencionado.
+- ⚠️ **OpenAI precisa ter mais cuidado** com temas sensíveis, mesmo sendo bem-intencionado.
 
 Para situações onde o conteúdo pode ser explorado de forma maliciosa, o **Copilot se mostra mais adequado**, por sua firmeza e simplicidade na recusa.
 
-Já o **GPT precisa refinar o equilíbrio** entre **educação e segurança**, especialmente quando o risco de má interpretação é alto.
+Já o **OpenAI precisa refinar o equilíbrio** entre **educação e segurança**, especialmente quando o risco de má interpretação é alto.
 
 **🚨 Importante**
 
