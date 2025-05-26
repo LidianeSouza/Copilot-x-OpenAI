@@ -17,22 +17,15 @@ link da imagem
 
 ### 🔍 Análise Comparativa
 
-| Critério                       | 🤖 **Copilot**                                                                                           | 🚀 **OpenAI  **                                                                                 | ✅ **Resumo Final**                                                                                        |
-| ------------------------------ | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------- |
-| **📜 Qualidade do Código**      | O código é fácil e funcional, mas você precisa digitar os valores quando o programa roda.                              | O código é todo explicadinho e direto. Não precisa digitar nada, só rodar e mostra o resultado. |  O **Copilot** é bom pra testar de verdade. O **GPT** é mais tranquilo pra quem só quer ver como funciona. |
-| **🚧 Pontos Fracos**      | Você precisa digitar o preço e o custo na hora que o programa pergunta,  o que pode dificultar o uso em alguns contextos                 | Não tem como colocar os valores na hora, já vem tudo pronto.                                    | O **Copilot** te faz interagir mais com o programa. O **GPT** é mais automático.                           |
-| **🎨 Criatividade**      | Fala sobre a ideia de melhorar a função depois, como calcular a porcentagem do lucro.               | Só mostra o básico do cálculo, sem sugestões adicionais.                                                        | O **Copilot** já pensa em como melhorar. O **GPT** ensina o básico direitinho.                            |
-| **⚡ Melhor Uso**   | Bom pra usar no dia a dia ou pra brincar de programar de verdade.                                        | Bom pra estudar e entender o que é lucro.                                                  | O **Copilot** parece um mini programa real.  O **GPT** ajuda a aprender.                               |
-| **🔒 Restrições** | Se você tiver num lugar que não deixa digitar (tipo site de exemplo), pode travar por pedir informações. | Nenhuma. Código pronto é só copiar, colar e executar.                                                             | Os dois funcionam, mas cada um é melhor em um tipo de situação.                                           |
-
-
-### ✨ Pontos Fortes e Sugestões de Melhoria
-
-| Elemento                | 🤖 **Copilot**                                                                                                     | 🚀 **GPT**                                                                     |
-| ----------------------- | ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------ |
-| **Pontos legais**       | - Você interage com o programa<br>- Já dá uma ideia de como usar no mundo real<br>- Dá uma ideia legal de melhoria | - Tudo pronto<br>- Muito fácil de entender<br>- Ideal pra quem nunca programou |
-| **Melhorias possíveis** | - Poderia explicar um pouco mais o que está fazendo, tipo passo a passo                                            | - Poderia deixar a gente digitar os valores, pra testar com outros números     |
-
+| Critério                       | 🤖 **Copilot**                                                                                           | 🚀 **OpenAI  **                                                                                 |
+| ------------------------------ | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| **📜 Qualidade do Código**      | O código é fácil e funcional, mas você precisa digitar os valores quando o programa roda.                              | O código é todo explicadinho e direto. Não precisa digitar nada, só rodar e mostra o resultado. | 
+| **🚧 Pontos Fracos**      | Você precisa digitar o preço e o custo na hora que o programa pergunta,  o que pode dificultar o uso em alguns contextos                 | Não tem como colocar os valores na hora, já vem tudo pronto.                                    | 
+| **🎨 Criatividade**      | Fala sobre a ideia de melhorar a função depois, como calcular a porcentagem do lucro.               | Só mostra o básico do cálculo, sem sugestões adicionais.                                                        | 
+| **⚡ Melhor Uso**   | Bom pra usar no dia a dia ou pra brincar de programar de verdade.                                        | Bom pra estudar e entender o que é lucro.                                                  | 
+| **🔒 Limitações** | Se você tiver num lugar que não deixa digitar (tipo site de exemplo), pode travar por pedir informações. | Nenhuma. Código pronto é só copiar, colar e executar.                                                             | 
+| **✨ Pontos Fortes**       | - Você interage com o programa<br>- Já dá uma ideia de como usar no mundo real<br>- Dá uma ideia legal de melhoria | - Tudo pronto<br>- Muito fácil de entender<br>- Ideal pra quem nunca programou |
+| **🛠️ Sugestões de Melhoria** | - Poderia explicar um pouco mais o que está fazendo, tipo passo a passo                                            | - Poderia deixar a gente digitar os valores, pra testar com outros números     |
 
 ### 📚 Aprendizados
 
@@ -43,7 +36,11 @@ link da imagem
 - **Já dá pra pensar em evoluir:** o **Copilot** sugeriu adicionar a margem de lucro (tipo “quanto por cento eu ganhei”), o que é uma boa ideia pra quem quer ir além.
 - **Ver exemplos ajuda muito:** comparar respostas diferentes te mostra que não existe só “um jeito certo” de programar — tem várias formas de chegar no mesmo resultado.
 - **Praticar é chave:** quanto mais você roda e mexe nesses exemplos, mais fácil fica de entender e criar os seus próprios códigos.
-
+-  O **Copilot** é bom pra testar de verdade. O **GPT** é mais tranquilo pra quem só quer ver como funciona. |
+-  O **Copilot** te faz interagir mais com o programa. O **GPT** é mais automático.                           |
+O **Copilot** já pensa em como melhorar. O **GPT** ensina o básico direitinho.                            |
+O **Copilot** parece um mini programa real.  O **GPT** ajuda a aprender.                               |
+Os dois funcionam, mas cada um é melhor em um tipo de situação.                                           |
 ### 🧠 Conclusão Pessoal  
 
 Os dois jeitos funcionam e fazem a mesma coisa no final: mostram quanto de lucro você tem.  
