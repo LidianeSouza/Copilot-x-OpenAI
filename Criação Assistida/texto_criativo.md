@@ -14,8 +14,8 @@ A ideia aqui é testar como diferentes ferramentas se saem na criação de uma h
 ### 🎯 Resultado Obtido
 
 | Resposta gerada pelo 🤖 Copilot                                             | Resposta gerada pelo 🚀 OpenAI                                             |
-|--------------------------------------------------------------------------|-------------------------------------------------------------------------|
-| ![Copilot](../Imagens/Criação Assistida/texto_criativo_copilot.png)     | ![OpenAI](../Imagens/Criação Assistida/texto_criativo_openai.png)      |
+|------------------------------------------------------------------------|------------------------------------------------------------------------|
+| ![Copilot](../images/criacao_assistida/texto_criativo_copilot.png)    | ![OpenAI](../images/criacao_assistida/texto_criativo_openai.png)       |
 
 ### 🔍 Análise Comparativa
 
