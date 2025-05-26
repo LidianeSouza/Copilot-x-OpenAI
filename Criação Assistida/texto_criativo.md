@@ -4,18 +4,6 @@
 
 Este documento apresenta um teste com geração de uma história criativa utilizando **Copilot** e **OpenAI**. 
 
-## 📋 Estrutura dos Testes Comparativos
-
-Para cada funcionalidade, vou testar o mesmo prompt em ambas as ferramentas e documentar as diferenças.
-
-- 📝 **Objetivo:** Definir o propósito do teste, o contexto e os principais pontos que serão avaliados e comprovados.  
-- 🖋️ **Prompt Utilizado:** Texto exato do prompt aplicado no GitHub Copilot e no OpenAI para gerar as respostas.  
-- 🎯 **Resultado Obtido:** Saída ou resposta gerada pelas inteligências artificiais a partir do prompt fornecido.  
-- 🔍 **Análise Comparativa:** Avaliação detalhada da qualidade da escrita, pontos fracos, criatividade, melhores usos, limitações, pontos fortes e sugestões de melhoria.  
-- ✨ **Pontos Fortes e Sugestões de Melhoria:** Destaques positivos de cada resposta e recomendações para aprimorar os resultados.  
-- 📚 **Aprendizados:** Principais insights e lições extraídas do teste realizado.  
-- 🧠 **Conclusão Pessoal:** Reflexão final e opinião baseada nos resultados da análise.
-
 ### 📝 Objetivo
 
 A ideia aqui é testar como diferentes ferramentas se saem na criação de uma história curta, bem estruturada e envolvente, a partir do mesmo prompt. Quero observar como cada uma lida com a limitação de espaço, se consegue trazer uma ideia original, usar bem o conceito de inteligência artificial e ainda manter a história interessante do começo ao fim.
