@@ -1,4 +1,6 @@
-# ✍️ `bloqueio_sensibilidade.md`
+# Filtros de Conteúdo
+
+## 🚫 `bloqueio_sensibilidade.md`
 
 ### 📝 Objetivo
 
